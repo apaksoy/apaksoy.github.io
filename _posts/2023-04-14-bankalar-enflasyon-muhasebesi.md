@@ -18,7 +18,7 @@ Bankaların enflasyon muhasebesi uygulanmış net karlarının tarihilerden bu k
 [![Borsa İstanbul’da işlem gören bankaların 2022 ve 2021 net parasal pozisyon karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-parasal-kar-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-parasal-kar-2022-2021.jpg)
 <br/><br/>
 
-Özkaynaklardaysa durum farklı: Aşağıdaki tabloda gözüktüğü gibi 12 bankanın 2022 sonundaki 897 milyar TL’lik toplam özkaynağı, enflasyon muhasebesi uygulandığında %10 farkla 2022 sonu TL’si cinsinden 985 milyar TL oluyor. 2021 özkaynak toplamıysa %5 olumlu farkla 2021 sonu TL’si cinsinden 468 milyar TL çıkıyor.
+Özkaynaklardaysa durum farklı: Aşağıdaki tabloda gözüktüğü gibi 12 bankanın 2022 sonundaki 897 milyar TL’lik toplam özkaynağı, enflasyon muhasebesi uygulandığında %10 olumlu farkla 2022 sonu TL’si cinsinden 985 milyar TL oluyor. 2021 özkaynak toplamıysa %5 olumlu farkla 2021 sonu TL’si cinsinden 468 milyar TL çıkıyor.
 
 <br/>
 [![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyona muhasebesi uygulanmış 2022 ve 2021 özkaynakları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg)  
@@ -38,7 +38,7 @@ Neredeyse hiçbir şirketin mali tabloları bu kadar basit olmadığından enfla
 
 Olur da bankalar 2021 veya 2022 yılı için mali tablolarını enflasyon muhasebesi uygulanmış olarak birgün kamuya açıklarlarsa, tümünde buradakilere yakın rakamlar çıkar diye bir iddiam yok çünkü bazı önemli detaylar net olmadığı gibi olanların da bazıları o zamana kadar değişebilir veya ek kural gelebilir. Örneğin genel fiyat düzeyi için tam neyin baz alınacağı açık değil. Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da ne vergi kanunlarında ne de TMS’de bu konuda netlik var.
 
-Yine de hesapladığım enflasyon muhasebesi uygulanmış rakamların bankaların “gerçek” rakamlarına epey daha yakın olduğunu tahmin ediyorum. Buna dolaylı bir delil olarak Garanti’nin 2022 konsolide BDDK net karı 58 milyar TL gözükürken Garanti’nin ana hissedarı BBVA’in 2022 mali tablolarına konsolide ettiği enflasyon muhasebesi uygulanmış UFRS mali tablolarda Garanti’nin net karının 10,8 milyar TL gözükmesini gösterebilirim. (Bkz BBVA'in yatırımcı ilişkileri internet sitesideki "[Financial reports](https://shareholdersandinvestors.bbva.com/financials/financial-reports/#2022)" sayfasındaki “4Q22 Quarterly Report” Excel dosyası.)
+Yine de hesapladığım enflasyon muhasebesi uygulanmış rakamların bankaların “gerçek” rakamlarına epey daha yakın olduğunu tahmin ediyorum. Buna dolaylı bir delil olarak Garanti’nin 2022 konsolide BDDK net karı 58 milyar TL gözükürken Garanti’nin ana hissedarı BBVA’in 2022 mali tablolarına konsolide ettiği enflasyon muhasebesi uygulanmış UFRS mali tablolarda Garanti’nin net karının 10,8 milyar TL gözükmesini gösterebilirim. (Bkz BBVA'in yatırımcı ilişkileri internet sitesindeki "[Financial reports](https://shareholdersandinvestors.bbva.com/financials/financial-reports/#2022)" sayfasındaki “4Q22 Quarterly Report” Excel dosyası.)
 
 ## Excel'de geliştirdiğim model ve kaynaklar
 Enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjWpWUuwChT1dQC6h?e=G66RY5) görebilirsiniz. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
@@ -67,4 +67,4 @@ Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayım
 
 #Enflasyon #BIST #XBANK #AKBNK #GARAN #HALKB #ISCTR #TSKB #VAKBN #YKBNK
 
-Not: Bu yazının bir benzerini [@curiosus137 Twitter hesabı üzerinden](https://twitter.com/curiosus137/status/1639210228469121024?s=61&t=ckXSOwzZY7rHjBboCn3XJg) 2023-03-24 tarihinde yayımladım.
+Not: Bu yazının bir benzerini @curiosus137 [Twitter hesabı üzerinden](https://twitter.com/curiosus137/status/1639210228469121024?s=61&t=ckXSOwzZY7rHjBboCn3XJg) 2023-03-24 tarihinde yayımladım.

@@ -21,7 +21,7 @@ Bankaların enflasyon muhasebesi uygulanmış net karlarının tarihilerden bu k
 Özkaynaklardaysa durum farklı: Aşağıdaki tabloda gözüktüğü gibi 12 bankanın 2022 sonundaki 897 milyar TL’lik toplam özkaynağı, enflasyon muhasebesi uygulandığında %10 farkla 2022 sonu TL’si cinsinden 985 milyar TL oluyor. 2021 özkaynak toplamıysa %5 olumlu farkla 2021 sonu TL’si cinsinden 468 milyar TL çıkıyor.
 
 <br/>
-[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyona muhasebesi uygulanmış 2022 ve 2021 özkaynakları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/özkaynak-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/özkaynak-2022-2021.jpg)  
+[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyona muhasebesi uygulanmış 2022 ve 2021 özkaynakları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg)  
 <br/>
 
 Genel fiyat düzeyi için TÜFE yerine Yİ-ÜFE kullanıldığında enflasyon muhasebeli finansallarda 12 bankanın 2022 toplam net karı 2022 sonu TL’si cinsinden 105 milyar TL zarar (TÜFE bazlı 25 milyar TL kar), toplam özkaynağı 1,07 trilyon TL (TÜFE bazlı 985 milyar TL) çıkıyor.

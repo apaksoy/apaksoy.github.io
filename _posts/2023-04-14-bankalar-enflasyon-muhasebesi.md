@@ -7,7 +7,7 @@ categories: hisse
 Hisseleri Borsa İstanbul’da işlem gören 12 banka 2022’de toplam 301 milyar TL kar etmiş gözükürken (“Tarihi”), TÜFE bazlı enflasyon muhasebesi uygulandığında bu toplam %92 azalarak 2022 sonu TL’si cinsinden aşağıdaki tabloda gözüktüğü gibi 25 milyar TL’ye (“Düzenlenmiş”) iniyor. Bu tabloya göre enflasyon muhasebesi uygulandığında, örneğin Akbank’ın 2022’de 60 milyar TL net kar yerine 11 milyar TL net kar ettiği, Halkbank’ınsa 15 milyar TL net kar yerine 14 milyar TL zarar ettiği ortaya çıkıyor.
 
 <br/>
-[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyona muhasebesi uygulanmış 2022 net karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg)  
+[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyona muhasebesi uygulanmış 2022 net karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg)
 <br/>
 
 Enflasyonun hızla yükseldiği ilk yıl olan 2021’de bu bankaların toplam karı 63 milyar TL'ken, enflasyon muhasebesi uygulandığında yukarıdaki tabloda gözüktüğü gibi, 2021 sonu TL’si cinsinden toplamda 48 milyar TL zarar ortaya çıkıyor. 2021’de enflasyon muhasebesi altında kar etmiş banka neredeyse yok!
@@ -16,18 +16,18 @@ Bankaların enflasyon muhasebesi uygulanmış net karlarının tarihilerden bu k
 
 <br/>
 [![Borsa İstanbul’da işlem gören bankaların 2022 ve 2021 net parasal pozisyon karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-parasal-kar-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-parasal-kar-2022-2021.jpg)
-<br/><br/>
+<br/>
 
 Özkaynaklardaysa durum farklı: Aşağıdaki tabloda gözüktüğü gibi 12 bankanın 2022 sonundaki 897 milyar TL’lik toplam özkaynağı, enflasyon muhasebesi uygulandığında %10 olumlu farkla 2022 sonu TL’si cinsinden 985 milyar TL oluyor. 2021 özkaynak toplamıysa %5 olumlu farkla 2021 sonu TL’si cinsinden 468 milyar TL çıkıyor.
 
 <br/>
-[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyona muhasebesi uygulanmış 2022 ve 2021 özkaynakları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg)  
+[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyona muhasebesi uygulanmış 2022 ve 2021 özkaynakları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg)
 <br/>
 
 Genel fiyat düzeyi için TÜFE yerine Yİ-ÜFE kullanıldığında enflasyon muhasebeli finansallarda 12 bankanın 2022 toplam net karı 2022 sonu TL’si cinsinden 105 milyar TL zarar (TÜFE bazlı 25 milyar TL kar), toplam özkaynağı 1,07 trilyon TL (TÜFE bazlı 985 milyar TL) çıkıyor.
 
 <br/>
-[![Aylık TÜFE ve Yİ-ÜFE endekslerinin yıllık değişimleri.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/tüfe-üfe.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/tüfe-üfe.jpg)  
+[![Aylık TÜFE ve Yİ-ÜFE endekslerinin yıllık değişimleri.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/tüfe-üfe.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/tüfe-üfe.jpg)
 
 ## Enflasyon muhasebesi
 Peki neden böyle oluyor? Çünkü hemen her bankanın parasal varlıkları parasal yükümlülüklerinden epey fazla olduğundan yüksek net parasal pozisyonu var. Ve bu net parasal pozisyonlar enflasyon karşısında eriyor. 
@@ -67,4 +67,4 @@ Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayım
 
 #Enflasyon #BIST #XBANK #AKBNK #GARAN #HALKB #ISCTR #TSKB #VAKBN #YKBNK
 
-Not: Bu yazının bir benzerini @curiosus137 [Twitter hesabı üzerinden](https://twitter.com/curiosus137/status/1639210228469121024?s=61&t=ckXSOwzZY7rHjBboCn3XJg) 2023-03-24 tarihinde yayımladım.
+Not: Bu yazının bir benzerini [Twitter üzerinden](https://twitter.com/curiosus137/status/1639210228469121024?s=61&t=ckXSOwzZY7rHjBboCn3XJg) daha önce yayımladım.

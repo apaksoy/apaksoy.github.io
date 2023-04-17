@@ -339,3 +339,11 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+// This is my addition. Related with changes in /_layouts/home.html
+.blog-roll-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  float: right;
+}

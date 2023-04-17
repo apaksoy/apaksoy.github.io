@@ -12,7 +12,7 @@ Hisseleri Borsa İstanbul’da işlem gören 12 banka 2022’de toplam 301 milya
 
 Enflasyonun hızla yükseldiği ilk yıl olan 2021’de bu bankaların toplam karı 63 milyar TL'ken, enflasyon muhasebesi uygulandığında yukarıdaki tabloda gözüktüğü gibi, 2021 sonu TL’si cinsinden toplamda 48 milyar TL zarar ortaya çıkıyor. 2021’de enflasyon muhasebesi altında kar etmiş banka neredeyse yok!
 
-Bankaların enflasyon muhasebesi uygulanmış net karlarının tarihilerden bu kadar düşük oluşmasına yol açan net parasal pozisyon karları (zararları). Aşağıdaki tabloda belirtildiği gibi 12 bankanın toplam net parasal pozisyon zararı 2022 ve 2021'de sırasıyla 310 milyar TL ve 119 milyar TL.
+Bankaların enflasyon muhasebesi uygulanmış net karlarının tarihilerden bu kadar düşük oluşmasına yol açan net parasal pozisyon karları (zararları). Aşağıdaki tabloda belirtildiği gibi 12 bankanın toplam net parasal pozisyon zararı 2022 ve 2021'de ilgili sene sonu TL'leri cinsinden sırasıyla 310 milyar TL ve 119 milyar TL.
 
 <br/>
 [![Borsa İstanbul’da işlem gören bankaların 2022 ve 2021 net parasal pozisyon karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-parasal-kar-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-parasal-kar-2022-2021.jpg)
@@ -40,8 +40,8 @@ Olur da bankalar 2021 veya 2022 yılı için mali tablolarını enflasyon muhase
 
 Yine de hesapladığım enflasyon muhasebesi uygulanmış rakamların bankaların “gerçek” rakamlarına epey daha yakın olduğunu tahmin ediyorum. Buna dolaylı bir delil olarak Garanti’nin 2022 konsolide BDDK net karı 58 milyar TL gözükürken Garanti’nin ana hissedarı BBVA’in 2022 mali tablolarına konsolide ettiği enflasyon muhasebesi uygulanmış UFRS mali tablolarda Garanti’nin net karının 10,8 milyar TL gözükmesini gösterebilirim. (Bkz BBVA'in yatırımcı ilişkileri internet sitesindeki "[Financial reports](https://shareholdersandinvestors.bbva.com/financials/financial-reports/#2022)" sayfasındaki “4Q22 Quarterly Report” Excel dosyası.)
 
-## Excel'de geliştirdiğim model ve kaynaklar
-Enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjWpWUuwChT1dQC6h?e=G66RY5) görebilirsiniz. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
+## Model, kaynaklar ve yöntem notları
+Bankalar için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjWpWUuwChT1dQC6h?e=G66RY5) görebilirsiniz. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
 
 Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir İnternet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
 
@@ -49,22 +49,22 @@ Excel’deki modeli geliştirirken 20 küsur yıllık finansal analistlik tecrü
 
 1. “[Enflasyon Muhasebesi Uygulamalarında Temel İşlemler Üzerine Bir Çalışma](https://dergipark.org.tr/en/pub/kmusekad/issue/10228/125786)”, 2005, Karasioğlu ve Erdemir, Karamanoğlu Mehmetbey Üniversitesi Sosyal Ve Ekonomik Araştırmalar Dergisi 2005/2 
 
-2. "[IAS 29 Financial Reporting in Hyperinflationary Economies](https://www.deloitteifrslearning.com/media/modules/ebf2c53c/sco/story_html5.html?lms=1)", Deloitte e-learning module 
+1. "[IAS 29 Financial Reporting in Hyperinflationary Economies](https://www.deloitteifrslearning.com/media/modules/ebf2c53c/sco/story_html5.html?lms=1)", Deloitte e-learning module 
 
-3. “[Chapter 7: Practical Example of IAS 29](https://www.icjce.es/images/pdfs/TECNICA/C02%20-%20IASB/C207%20-%20IAS-PwC%20y%20otros/PWC-UIAS%2029%20Practical%20example.pdf)”, PricewaterhouseCoopers, 2002
+1. “[Chapter 7: Practical Example of IAS 29](https://www.icjce.es/images/pdfs/TECNICA/C02%20-%20IASB/C207%20-%20IAS-PwC%20y%20otros/PWC-UIAS%2029%20Practical%20example.pdf)”, PricewaterhouseCoopers, 2002
 
 Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayımlarda bulunmam gerekti. Bunlardan bazıları şöyle:
 
 1. ALBRK ve KLNMA hariç enflasyon muhasebesi uygulandığında daha doğru sonuç verdiğini tahmin ettiğim için konsolide mali tabloları (BDDK ya da ÖFK) kullandım.
 
-2. Enflasyon muhasebesini çeyreksel mali tablolara uyguladıktan sonra yıllık rakamları hesapladım. Bu yaklaşım yıllık rakamların daha güvenilir bir şekilde hesaplanmasını sağlıyor.
+1. Enflasyon muhasebesini çeyreksel mali tablolara uyguladıktan sonra yıllık rakamları hesapladım. Bu yaklaşım yıllık rakamların daha güvenilir bir şekilde hesaplanmasını sağlıyor.
 
-3. Enflasyon muhasebesinde finansal durum tablosundaki parasal olmayan varlık ve kaynaklar, gerekirse 30 yıla kadar geriye gidilip,  enflasyonla yeniden değerlenir. Enflasyonun 4Ç21 öncesi düşüklüğünü fırsat bilip yeniden değerlemeyi 2020 sonundan başlattım.
+1. Enflasyon muhasebesinde finansal durum tablosundaki parasal olmayan varlık ve kaynaklar, gerekirse 30 yıla kadar geriye gidilip,  enflasyonla yeniden değerlenir. Enflasyonun 4Ç21 öncesi düşüklüğünü fırsat bilip yeniden değerlemeyi 2020 sonundan başlattım.
 
-4. 2020’den sonra edinilen parasal olmayan varlık ve kaynakları, çeyrek ortalarında edinildiklerini varsayarak yeniden değerledim. Gelir tablosundaki kalemlerin çoğu için de aynı varsayımda bulundum.
+1. 2020’den sonra edinilen parasal olmayan varlık ve kaynakları, çeyrek ortalarında edinildiklerini varsayarak yeniden değerledim. Gelir tablosundaki kalemlerin çoğu için de aynı varsayımda bulundum.
 
-5. Sonuçları çok etkilemiyor ama vergi amaçlı mali tablolarda enflasyon muhasebesi uygulamasına izin verilmediğini varsayarak enflasyon muhasebesi uygulanmış mali tablolarda ek ertelenmiş vergi gideri hesabını da işin içine kattım.
-
-#Enflasyon #BIST #XBANK #AKBNK #GARAN #HALKB #ISCTR #TSKB #VAKBN #YKBNK
+1. Sonuçları çok etkilemiyor ama vergi amaçlı mali tablolarda enflasyon muhasebesi uygulamasına izin verilmediğini varsayarak enflasyon muhasebesi uygulanmış mali tablolarda ek ertelenmiş vergi gideri hesabını da işin içine kattım.
 
 Not: Bu yazının bir benzerini [Twitter üzerinden](https://twitter.com/curiosus137/status/1639210228469121024?s=61&t=ckXSOwzZY7rHjBboCn3XJg) daha önce yayımladım.
+
+#Enflasyon #IAS29 #UMS29 #TMS29 #Muhasebe #Finansal #BIST #XBANK #AKBNK #GARAN #HALKB #ISCTR #TSKB #VAKBN #YKBNK

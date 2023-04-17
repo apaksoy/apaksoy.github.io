@@ -32,7 +32,8 @@ layout: base
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          <!-- {{ post.excerpt }} -->
+          {{ post.content | truncatewords: 25 }}
         {%- endif -%}
       </li>
       {%- endfor -%}

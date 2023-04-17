@@ -3,7 +3,6 @@ layout: post
 title: "Banka harici BIST-50 şirketlerinin 2022 ve 2021 mali tablolarına enflasyon muhasebesi uygulanması"
 categories: hisse
 ---
-#### Net karlar
 Hissesi BIST-50’de yer alıp sanayi, ticaret veya finans dışı hizmet sektörlerinde faal 28 şirketin finansallarına TÜFE bazlı enflasyon muhasebesi uygulandığında, sene sonu TL’si cinsinden 2022 net karları (“Düzenlenmiş”), bilinen net karlarından (“Tarihi”) aşağıdaki tabloda gösterildiği gibi %21 az çıkıyor. Bu şirketler arasında 2022 düzenlenmiş net karı cirosuna oranla tarihisine göre en çok düşenin Koza Altın (KOZAL) (4,0 milyar TL’den eksi 2,1 milyar TL’ye), en çok artanınsa Türk Telekom (TTKOM) olduğunu (4,1 milyar TL’den 11,6 milyar TL’ye) görüyoruz.
 
 <br/>

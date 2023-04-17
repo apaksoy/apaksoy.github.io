@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Banka harici BIST-50 şirketlerinin 2022 ve 2021 mali tablolarına enflasyon muhasebesi uygulanması"
+related_image: /assets/2023-04-15-sanayi-enflasyon-muhasebesi/2022-kar-ve-marj.png
 categories: hisse
 ---
 Hissesi BIST-50’de yer alıp sanayi, ticaret veya finans dışı hizmet sektörlerinde faal 28 şirketin finansallarına TÜFE bazlı enflasyon muhasebesi uygulandığında, sene sonu TL’si cinsinden 2022 net karları (“Düzenlenmiş”), bilinen net karlarından (“Tarihi”) aşağıdaki tabloda gösterildiği gibi %21 az çıkıyor. Bu şirketler arasında 2022 düzenlenmiş net karı cirosuna oranla tarihisine göre en çok düşenin Koza Altın (KOZAL) (4,0 milyar TL’den eksi 2,1 milyar TL’ye), en çok artanınsa Türk Telekom (TTKOM) olduğunu (4,1 milyar TL’den 11,6 milyar TL’ye) görüyoruz.
@@ -76,7 +77,7 @@ SAHOL’de farkın KCHOL'e göre daha yüksek olması karın daha büyük bir b�
   </a>
 </div>
 #### TÜFE yerine Yİ-ÜFE kullanılırsa
-Enflasyon muhasebesini uygularken TÜFE yerine Yİ-ÜFE kullanılırsa aşağıdaki tablolardan görülebileceği gibi tarihilerine göre 2022 sene sonu TL'si cinsinden düzenlenmiş cirolar %21 yüksek (TÜFE bazlı %18 yüksek), esas faaliyet karları %84 düşük (TÜFE bazlı %34 düşük), net karlar %35 düşük (TÜFE bazlı %21 düşük), özkaynaklar %54 yüksek (TÜFE bazlı %25 yüksek) çıkıyor.
+Enflasyon muhasebesini uygularken TÜFE yerine Yİ-ÜFE kullanılırsa aşağıdaki dört tablodan görülebileceği gibi tarihilerine göre 2022 sene sonu TL'si cinsinden düzenlenmiş cirolar %21 yüksek (TÜFE bazlı %18 yüksek), esas faaliyet karları %84 düşük (TÜFE bazlı %34 düşük), net karlar %35 düşük (TÜFE bazlı %21 düşük), özkaynaklar %54 yüksek (TÜFE bazlı %25 yüksek) çıkıyor.
 <br/><br/>
 <div style="display: flex; justify-content: center;">
   <a href="/assets/2023-04-15-sanayi-enflasyon-muhasebesi/2022-2021-YIUFE-ciro.png">

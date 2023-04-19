@@ -55,3 +55,5 @@ minima:
 # Set to `true` to show excerpts on the homepage.
 #
 show_excerpts: true
+
+google_analytics: G-MHLS2QZ1X6

@@ -42,7 +42,7 @@ Olur da bankalar 2021 veya 2022 yılı için mali tablolarını enflasyon muhase
 Yine de hesapladığım enflasyon muhasebesi uygulanmış rakamların bankaların “gerçek” rakamlarına epey daha yakın olduğunu tahmin ediyorum. Buna dolaylı bir delil olarak Garanti’nin 2022 konsolide BDDK net karı 58 milyar TL gözükürken Garanti’nin ana hissedarı BBVA’in 2022 mali tablolarına konsolide ettiği enflasyon muhasebesi uygulanmış UFRS mali tablolarda Garanti’nin net karının 10,8 milyar TL gözükmesini gösterebilirim. (Bkz BBVA'in yatırımcı ilişkileri internet sitesindeki "[Financial reports](https://shareholdersandinvestors.bbva.com/financials/financial-reports/#2022)" sayfasındaki “4Q22 Quarterly Report” Excel dosyası.)
 
 ## Model, kaynaklar ve yöntem notları
-Bankalar için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjWpWUuwChT1dQC6h?e=G66RY5) görebilirsiniz. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
+Bankalar için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjWpWUuwChT1dQC6h?e=G66RY5) görebilirsiniz. Modeli kabaca UMS 29 / TMS 29 muhasebe standartlarının temel prensiplerine uygun olarak inşa ettim. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
 
 Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir İnternet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
 
@@ -52,7 +52,7 @@ Excel’deki modeli geliştirirken 20 küsur yıllık finansal analistlik tecrü
 
 1. "[IAS 29 Financial Reporting in Hyperinflationary Economies](https://www.deloitteifrslearning.com/media/modules/ebf2c53c/sco/story_html5.html?lms=1)", Deloitte e-learning module 
 
-1. “[Chapter 7: Practical Example of IAS 29](https://www.icjce.es/images/pdfs/TECNICA/C02%20-%20IASB/C207%20-%20IAS-PwC%20y%20otros/PWC-UIAS%2029%20Practical%20example.pdf)”, PricewaterhouseCoopers, 2002
+1. “[Chapter 7: Practical Example of IAS 29](https://www.icjce.es/images/pdfs/TECNICA/C02%20-%20IASB/C207%20-%20IAS-PwC%20y%20otros/PWC-UIAS%2029%20Practical%20example.pdf)”, 2002, PricewaterhouseCoopers
 
 Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayımlarda bulunmam gerekti. Bunlardan bazıları şöyle:
 

@@ -62,9 +62,9 @@ Esas faaliyet kar marjlarındaki düzeltmeden sonra buradaki şirketlerin net ka
 
 <br/>
 [![Şirketlerin 2022 ve 2021 tarihi ve düzenlenmiş özkaynakları.](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-ozkaynak.png){:height="350px"}](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-ozkaynak.png)
-#### Diğerleri
+#### Diğer şirketler
 Toplulaştırılmış rakamlarda tekrar olmasın diye yukarıdaki tablolara almadığım Koç (KCHOL) ve Sabancı’nın (SAHOL) 2022 düzenlenmiş net karları tarihilerden sırasıyla %30 ve %62 daha az. 
-Koza Anadolu'nun (KOZAA) 2022 tarihi net karı artıyken, düzenlenmiş net karı KOZAL'ınki gibi eksi. SAHOL’de farkın KCHOL'e göre daha yüksek olması karın daha büyük bir bölümünün banka iştirakinden gelmesinden.
+Aynı nedenden dolayı yukarıdaki tablolara almadığım Koza Anadolu'nun (KOZAA) 2022 tarihi net karı artıyken, düzenlenmiş net karı KOZAL'ınki gibi eksi. SAHOL’de farkın KCHOL'e göre daha yüksek olması karın daha büyük bir bölümünün banka iştirakinden gelmesinden.
 <br/><br/>
 <div style="display: flex; justify-content: center;">
   <a href="/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-diger-kar.png">
@@ -107,7 +107,7 @@ Enflasyon muhasebesini uygularken TÜFE yerine Yİ-ÜFE kullanılırsa alttaki d
 ### Model, kaynaklar ve yöntem notları
 Yapısal nedenlerden dolayı, kamuya açıklanmayan belli detaylar olmadan, finansal olmayan şirketlere enflasyon muhasebesi uygulamak bankalara göre sık sık daha zor. Bu yüzden yukarıdaki tablolardaki enflasyon muhasebesi uygulanmış finansal kalemlerdeki muhtemel hata payları bazen çok düşük olmayıp, şirket bazında değişken. Ama tahminim hem toplu hem de şirket bazındaki rakamların yön ve büyüklük olarak fikir verebilecek ölçüde doğru olduğu.
 
-Hepsi TMS İlke Kararı 2019-1 formatında mali tablo açıklıyor olan buradaki şirketler için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini (bankalar için olandan farklı) [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjXjRvsYemCMNVppg?e=Wt9pBL) görebilirsiniz. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
+Hepsi TMS İlke Kararı 2019-1 formatında mali tablo açıklıyor olan buradaki şirketler için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini (bankalar için olandan farklı) [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjXjRvsYemCMNVppg?e=Wt9pBL) görebilirsiniz. Modeli kabaca UMS 29 / TMS 29 muhasebe standartlarının temel prensiplerine uygun olarak inşa ettim. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
 
 Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir İnternet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
 

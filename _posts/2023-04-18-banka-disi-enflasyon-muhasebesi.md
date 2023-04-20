@@ -16,10 +16,10 @@ Aynı şirketlerin 2021 mali tablolarına enflasyon muhasebesi uygulandığında
 [![Şirketlerin 2021 tarihi ve düzenlenmiş net karları ve net kar marjları.](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2021-kar-ve-marj.png){:height="350px"}](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2021-kar-ve-marj.png)
 <br/>
 
-Borsa İstanbul’da işlem gören bankaların mali tablolarına TÜFE bazlı enflasyon muhasebesi uygulandığında sene sonu TL’si cinsinden 2022 net karları toplamının tarihilere göre %92 daha düşük çıktığını "[Bankaların 2022 ve 2021 mali tablolarına enflasyon muhasebesi uygulanması](/hisse/2023/04/14/bankalar-enflasyon-muhasebesi.html)" başlıklı yazımda açıklamıştım. 
+Borsa İstanbul’da işlem gören bankaların mali tablolarına TÜFE bazlı enflasyon muhasebesi uygulandığında sene sonu TL’si cinsinden 2022 net karları toplamının tarihilere göre %92 daha düşük çıktığını "[Bankaların 2022 ve 2021 mali tablolarına enflasyon muhasebesi uygulanması](/hisse/2023/04/14/bankalar-enflasyon-muhasebesi.html)" başlıklı yazımda (okumanızı öneririm) açıklamıştım. 
 Aynı yazıda aynı bankaların 63 milyar TL'lik 2021 toplam net karlarının enflasyon muhasebesi uygulandığında sene sonu TL'si cinsinden 48 milyar TL'lik zarara dönüştüğünü de belirtmiştim.
 #### Satış gelirleri
-Banka dışı 28 şirketin 2022 ve 2021 düzenlenmiş ciroları aşağıdaki tablodan görülebileceği gibi tarihilere göre, sırasıyla, %18 ve %23 (ortancalar) daha yüksek çıkıyor. Düzenlenmiş ciroların tarihilerden farkı ilgili yıllar için şirketlerin çoğunda bu seviyelere yakın.
+Banka dışı 28 şirketin 2022 ve 2021 düzenlenmiş ciroları aşağıdaki tablodan görülebileceği gibi tarihilere göre, sırasıyla, %18 ve %23 daha yüksek çıkıyor. Düzenlenmiş ciroların tarihilerden farkı ilgili yıllar için şirketlerin çoğunda bu seviyelere yakın.
 
 <br/>
 [![Şirketlerin 2022 ve 2021 tarihi ve düzenlenmiş satış gelirleri.](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-ciro.png){:height="350px"}](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-ciro.png)
@@ -64,7 +64,7 @@ Esas faaliyet kar marjlarındaki düzeltmeden sonra buradaki şirketlerin net ka
 [![Şirketlerin 2022 ve 2021 tarihi ve düzenlenmiş özkaynakları.](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-ozkaynak.png){:height="350px"}](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-ozkaynak.png)
 #### Diğer şirketler
 Toplulaştırılmış rakamlarda tekrar olmasın diye yukarıdaki tablolara almadığım Koç (KCHOL) ve Sabancı’nın (SAHOL) 2022 düzenlenmiş net karları tarihilerden sırasıyla %30 ve %62 daha az. 
-Aynı nedenden dolayı yukarıdaki tablolara almadığım Koza Anadolu'nun (KOZAA) 2022 tarihi net karı artıyken, düzenlenmiş net karı KOZAL'ınki gibi eksi. SAHOL’de farkın KCHOL'e göre daha yüksek olması karın daha büyük bir bölümünün banka iştirakinden gelmesinden.
+Aynı nedenden dolayı yukarıdaki tablolara almadığım Koza Anadolu'nun (KOZAA) 2022 tarihi net karı artıyken, düzenlenmiş net karı KOZAL'ınki gibi eksi. SAHOL’de farkın KCHOL'e göre daha çok olması karın daha büyük bir bölümünün banka iştirakinden gelmesinden.
 <br/><br/>
 <div style="display: flex; justify-content: center;">
   <a href="/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-diger-kar.png">
@@ -109,13 +109,13 @@ Yapısal nedenlerden dolayı, kamuya açıklanmayan belli detaylar olmadan, fina
 
 Hepsi TMS İlke Kararı 2019-1 formatında mali tablo açıklıyor olan buradaki şirketler için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini (bankalar için olandan farklı) [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjXjRvsYemCMNVppg?e=Wt9pBL) görebilirsiniz. Modeli kabaca UMS 29 / TMS 29 muhasebe standartlarının temel prensiplerine uygun olarak inşa ettim. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
 
-Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir İnternet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
+Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
 
-Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [referansların ve yöntem notlarının](/hisse/2023/04/14/bankalar-enflasyon-muhasebesi.html#model-kaynaklar-ve-yöntem-notları) ilgili olanlarının hepsi buradaki model için de geçerli. Ancak şunları da eklemekte fayda var:
+Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [referansların ve yöntem notlarının](/hisse/2023/04/14/bankalar-enflasyon-muhasebesi.html#model-kaynaklar-ve-yöntem-notları) ilgili olanlarının hepsi buradaki model için de geçerli ve yazıyı uzatmamak için bunları bu yazıda tekrarlamıyorum. Ancak bu yazıdaki model ve şirketlere özel olarak şunları da eklememde fayda var:
 
 1. Faaliyet, net parasal pozisyon ve net kar (ortanca) toplu değişimlerini, diğer yöntemler daha az sağlıklı sonuç verebildiği için, şöyle hesaplıyorum: (dönem ciro artış oranlarının ortancası  + 1) * (dönem ortanca marjı / önceki dönem ortanca marjı) - 1.
 
-1. Parasal olmayan varlık ve kaynakların yeniden değerlemesini 2020’den değil de resmi enflasyon muhasebesi uygulamalarında olduğu gibi gerekirse 30 yıl önceden başlatabilseydim parasal olmayan duran varlıkların yeniden değerlemelerinin şirketlerin hemen hepsinde daha yüksek çıkacağını ve bunun da şirketlerin çoğunda düzenlenmiş parasal olmayan duran varlıkların, ve böylece amortisman ve itfa giderlerinin, tarihilerine göre ek 30 ile 50 puan arası daha yüksek çıkmasına neden olacağını tahmin ediyorum. Böyle olduğunda düzenlenmiş net karların tarihilerine göre ek 5 ile 10 puan arası daha düşük ve düzenlenmiş özkaynakların tarihilerine göre ek 20 ile 40 puan arası daha yüksek çıkmasını beklerim.
+1. Parasal olmayan varlık ve kaynakların yeniden değerlemesini 2020’den değil de resmi enflasyon muhasebesi uygulamalarında olduğu gibi gerekirse 30 yıl önceden başlatabilseydim parasal olmayan duran varlıkların yeniden değerlemelerinin şirketlerin hemen hepsinde daha yüksek çıkmasını beklerim. Bunun da şirketlerin çoğunda düzenlenmiş parasal olmayan duran varlıkların, ve böylece amortisman ve itfa giderlerinin, tarihilerine göre ek 30 ile 50 puan arası daha yüksek (tarihi düzenlenmiş farkı örneğin %50'se %80 ile %100'e) çıkmasına neden olacağını tahmin ediyorum. Böyle olduğunda düzenlenmiş net karların tarihilerine göre ek 5 ile 10 puan arası daha düşük ve düzenlenmiş özkaynakların tarihilerine göre ek 20 ile 40 puan arası daha yüksek çıkmasını beklerim.
 
 1. BIST-50’de halen 7 banka var. Diğer 43’ü sanayi, ticaret veya finans dışı hizmet sektörlerinde olup TMS İlke Kararı 2019-1 formatında mali tablo açıklıyorsa da sadece 28+3'ünün enflasyon muhasebesi uygulanmış sonuçları yukarıdaki tablolarda olup 12'sinin yok. Bunun nedeni 6'sının mali tablolarının işlevsel para biriminin TL olmaması (ENKAI, EREGL, KORDS, PGSUS, TAVHL, THYAO), 2'sinin 2020 sonrası halka açılma nedeniyle yakın tarihli bazı çeyreksel finansallarının olmaması (GESAN, SMRTG) ve 4'ünün elimdeki elektronik olarak hazır verilerle enflasyon muhasebesi uygulandığında ek hata olasılığının fazla yüksek olması (AEFES, EKGYO, ISGYO, ODAS).
 
@@ -133,5 +133,8 @@ Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [r
     width="340" />
   </a>
 </div>
-<br/><br/>
+<br/>
+### Düzeltme ve değişiklikler
+Bu yazı yayımlandığından beri ciddi bir değişikliğe uğramadı.
+<br/><br/><br/>
 #Enflasyon #IAS29 #UMS29 #TMS29 #Muhasebe #Finansal #BIST #XBANK #XU050 #AKSA #AKSEN #ALARK #ARCLK #ASELS #BERA #BIMAS #DOHOL #EGEEN #ENJSA #FROTO #GUBRF #HEKTS #KONTR #KOZAL #KRDMD #MGROS #OYAKC #PETKM #SASA #SISE #SOKM #TCELL #TKFEN #TOASO #TTKOM #TUPRS #VESTL #KCHOL #KOZAA #SAHOL

@@ -44,7 +44,7 @@ Yine de hesapladığım enflasyon muhasebesi uygulanmış rakamların bankaları
 ## Model, kaynaklar ve yöntem notları
 Bankalar için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjWpWUuwChT1dQC6h?e=G66RY5) görebilirsiniz. Modeli kabaca UMS 29 / TMS 29 muhasebe standartlarının temel prensiplerine uygun olarak inşa ettim. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
 
-Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir İnternet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
+Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
 
 Excel’deki modeli geliştirirken 20 küsur yıllık finansal analistlik tecrübem ve 1990’ların sonlarından 2000’lerin ortasına kadar enflasyon muhasebesi uygulanmış mali tablolarla bol bol uğraşmışlığım yanında birçok kaynak içinde en çok şu üçünden faydalandım: 
 
@@ -67,5 +67,8 @@ Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayım
 1. Sonuçları çok etkilemiyor ama vergi amaçlı mali tablolarda enflasyon muhasebesi uygulamasına izin verilmediğini varsayarak enflasyon muhasebesi uygulanmış mali tablolarda ek ertelenmiş vergi gideri hesabını da işin içine kattım.
 
 Not: Bu yazının bir benzerini [Twitter üzerinden](https://twitter.com/curiosus137/status/1639210228469121024?s=61&t=ckXSOwzZY7rHjBboCn3XJg) daha önce yayımladım.
-
+<br/>
+### Düzeltme ve değişiklikler
+Bu yazı yayımlandığından beri ciddi bir değişikliğe uğramadı.
+<br/><br/><br/>
 #Enflasyon #IAS29 #UMS29 #TMS29 #Muhasebe #Finansal #BIST #XBANK #AKBNK #GARAN #HALKB #ISCTR #TSKB #VAKBN #YKBNK

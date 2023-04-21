@@ -46,7 +46,7 @@ Bankalar için enflasyon muhasebesi uygulanmış rakamları hesaplarken kulland�
 
 Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
 
-Excel’deki modeli geliştirirken 20 küsur yıllık finansal analistlik tecrübem ve 1990’ların sonlarından 2000’lerin ortasına kadar enflasyon muhasebesi uygulanmış mali tablolarla bol bol uğraşmışlığım yanında birçok kaynak içinde en çok şu üçünden faydalandım: 
+Excel’deki modeli geliştirirken 20 küsur yıllık finansal analistlik tecrübem ve 1990’ların sonlarından 2000’lerin ortasına kadar enflasyon muhasebesi uygulanmış mali tablolarla bol bol uğraşmışlığım yanında, birçok kaynak içinde, en çok şu üçünden faydalandım: 
 
 1. “[Enflasyon Muhasebesi Uygulamalarında Temel İşlemler Üzerine Bir Çalışma](https://dergipark.org.tr/en/pub/kmusekad/issue/10228/125786)”, 2005, Karasioğlu ve Erdemir, Karamanoğlu Mehmetbey Üniversitesi Sosyal Ve Ekonomik Araştırmalar Dergisi 2005/2 
 

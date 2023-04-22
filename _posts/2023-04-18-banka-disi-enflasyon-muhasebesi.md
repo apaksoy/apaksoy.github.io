@@ -119,20 +119,20 @@ Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [r
 
     Bunun da şirketlerin çoğunda düzenlenmiş parasal olmayan duran varlıkların, ve böylece amortisman ve itfa giderlerinin, tarihilerine göre ek 30 ile 50 puan arası daha yüksek (tarihi düzenlenmiş farkı örneğin %50'se, %80 ile %100'e) çıkmasına neden olacağını tahmin ediyorum. Böyle olduğunda düzenlenmiş net karların tarihilerine göre ek 5 ile 10 puan arası daha düşük ve düzenlenmiş özkaynakların tarihilerine göre ek 20 ile 40 puan arası daha yüksek çıkmasını beklerim.
 
-1. BIST-50’de halen 7 banka var. Diğer 43’ü sanayi, ticaret veya finans dışı hizmet sektörlerinde olup TMS İlke Kararı 2019-1 formatında mali tablo açıklıyorsa da sadece 28+3'ünün enflasyon muhasebesi uygulanmış sonuçları yukarıdaki tablolarda olup 12'sinin yok.
+1. BIST-50’de Mart 2023 itibariyle 7 banka var. Diğer 43’ü sanayi, ticaret veya finans dışı hizmet sektörlerinde olup TMS İlke Kararı 2019-1 formatında mali tablo açıklıyorsa da sadece 28+3'ünün enflasyon muhasebesi uygulanmış sonuçları yukarıdaki tablolarda olup 12'sinin yok.
 
     Bunun nedeni 6'sının mali tablolarının işlevsel para biriminin TL olmaması (ENKAI, EREGL, KORDS, PGSUS, TAVHL, THYAO), 2'sinin 2020 sonrası halka açılma nedeniyle yakın tarihli bazı çeyreksel finansallarının olmaması (GESAN, SMRTG) ve 4'ünün elimdeki elektronik olarak hazır verilerle enflasyon muhasebesi uygulandığında ek hata olasılığının fazla yüksek olması (AEFES, EKGYO, ISGYO, ODAS).
 
 1. Geliştirdiğim modelde parasal olmayan varlık ve kaynakların yeniden değerlemesinin 2020 sonundan başlamış olması gibi tüm şirketler için geçerli zayıf noktalar var. Böyle noktaların sayısı ve önemi şirketine göre yapısal ek farklılıklar olduğunda (özkaynak yöntemli veya işlevsel para birimi TL olmayan iştirakler gibi) az veya çok artabiliyor ama bu tür farkların etkilerini her zaman iyi tahmin etmek zor. Aşağıdaki iki tablo model açısından şirket bazında belirlediğim sorunları ve ek hata olasılıklarını gösteriyor.
 <br/><br/>
 <div style="display: flex; justify-content: center;">
-  <a href="/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/Sirket-notlari-1.tiff">
-    <img src="/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/Sirket-notlari-1.tiff" 
+  <a href="/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/Sirket-notlari-1.png">
+    <img src="/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/Sirket-notlari-1.png" 
     alt="Şirketlere burada kullanılan modelle enflasyon muhasebesi uygulandığında şirket özelinde karşılaşılan sorunlar ve ek hata olasılıkları listesinin birinci bölümü."     
     width="340" style="margin-right: 20px;" />
   </a>
-  <a href="/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/Sirket-notlari-2.tiff">
-    <img src="/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/Sirket-notlari-2.tiff"
+  <a href="/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/Sirket-notlari-2.png">
+    <img src="/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/Sirket-notlari-2.png"
     alt="Şirketlere burada kullanılan modelle enflasyon muhasebesi uygulandığında şirket özelinde karşılaşılan sorunlar ve ek hata olasılıkları listesinin ikinci bölümü."     
     width="340" />
   </a>

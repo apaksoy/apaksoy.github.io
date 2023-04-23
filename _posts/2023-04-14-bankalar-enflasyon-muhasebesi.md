@@ -42,7 +42,7 @@ Olur da bankalar 2021 veya 2022 yılı için mali tablolarını enflasyon muhase
 Yine de hesapladığım enflasyon muhasebesi uygulanmış rakamların bankaların “gerçek” rakamlarına epey daha yakın olduğunu tahmin ediyorum. Buna dolaylı bir delil olarak Garanti’nin 2022 konsolide BDDK net karı 58 milyar TL gözükürken Garanti’nin ana hissedarı BBVA’in 2022 mali tablolarına konsolide ettiği enflasyon muhasebesi uygulanmış UFRS mali tablolarda Garanti’nin net karının 10,8 milyar TL gözükmesini gösterebilirim. (Bkz BBVA'in yatırımcı ilişkileri internet sitesindeki "[Financial reports](https://shareholdersandinvestors.bbva.com/financials/financial-reports/#2022)" sayfasındaki “4Q22 Quarterly Report” Excel dosyası.)
 
 ## Model, kaynaklar ve yöntem notları
-Bankalar için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjWpWUuwChT1dQC6h?e=G66RY5) görebilirsiniz. Modeli kabaca UMS 29 / TMS 29 muhasebe standartlarının temel prensiplerine uygun olarak inşa ettim. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
+Bankalar için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjWpWUuwChT1dQC6h?e=G66RY5) görebilirsiniz. Modeli kabaca [UMS 29 / TMS 29](https://www.mazars.com.tr/Anasayfa/Hizmetlerimiz/Denetim-guevence/Enflasyon-muhasebesi/IAS-29-TMS-29-nedir) muhasebe standartlarının temel prensiplerine uygun olarak inşa ettim. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
 
 Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
 
@@ -60,7 +60,7 @@ Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayım
 
 1. Enflasyon muhasebesini çeyreksel mali tablolara uyguladıktan sonra yıllık rakamları hesapladım. Bu yaklaşım yıllık rakamların daha güvenilir bir şekilde hesaplanmasını sağlıyor.
 
-1. Enflasyon muhasebesinde finansal durum tablosundaki parasal olmayan varlık ve kaynaklar, gerekirse 30 yıla kadar geriye gidilip,  enflasyonla yeniden değerlenir. Enflasyonun 4Ç21 öncesi düşüklüğünü fırsat bilip yeniden değerlemeyi 2020 sonundan başlattım.
+1. Enflasyon muhasebesinde, finansal durum tablosundaki parasal olmayan bir varlık ya da kaynak, gerekirse 30 yıla kadar geriye gidilip enflasyonla yeniden değerlenir. Enflasyonun 4Ç21 öncesi düşüklüğünü fırsat bilip yeniden değerlemeyi 2020 sonundan başlattım.
 
 1. 2020’den sonra edinilen parasal olmayan varlık ve kaynakları, çeyrek ortalarında edinildiklerini varsayarak yeniden değerledim. Gelir tablosundaki kalemlerin çoğu için de aynı varsayımda bulundum.
 

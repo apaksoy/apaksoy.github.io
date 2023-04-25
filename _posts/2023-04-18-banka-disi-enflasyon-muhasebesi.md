@@ -111,19 +111,19 @@ Hepsi TMS İlke Kararı 2019-1 formatında mali tablo açıklıyor olan buradaki
 
 Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
 
-Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [referansların ve yöntem notlarının](/hisse/2023/04/14/bankalar-enflasyon-muhasebesi.html#model-kaynaklar-ve-yöntem-notları) ilgili olanlarının hepsi buradaki model için de geçerli ve yazıyı uzatmamak için bunları bu yazıda tekrarlamıyorum. Ancak bu yazıdaki model ve şirketlere özel olarak şunları da eklememde fayda var:
+Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [referansların ve yöntem notlarının](/hisse/2023/04/14/bankalar-enflasyon-muhasebesi.html#model-kaynaklar-ve-yöntem-notları) ilgili olanlarının hepsi buradaki model için de geçerli ve yazıyı uzatmamak için bunları tekrarlamıyorum. Ancak bu yazıdaki model ve şirketlere özel olarak şunları eklememde fayda var:
 
 1. Faaliyet, net parasal pozisyon ve net kar (ortanca) toplu değişimlerini, diğer yöntemler daha az sağlıklı sonuç verebildiği için, şöyle hesaplıyorum: (dönem ciro artış oranlarının ortancası  + 1) * (dönem ortanca marjı / önceki dönem ortanca marjı) - 1.
 
 1. Parasal olmayan varlık ve kaynakların yeniden değerlemesini 2020’den değil de resmi enflasyon muhasebesi uygulamalarında olduğu gibi gerekirse 30 yıl önceden başlatabilseydim parasal olmayan duran varlıkların yeniden değerlemelerinin şirketlerin hemen hepsinde daha yüksek çıkmasını beklerim.
 
-    Bunun da şirketlerin çoğunda düzenlenmiş parasal olmayan duran varlıkların, ve böylece amortisman ve itfa giderlerinin, tarihilerine göre ek 30 ile 50 puan arası daha yüksek (tarihiyle düzenlenmişin farkı örneğin %50'se, %80 ile %100'e) çıkmasına neden olacağını tahmin ediyorum. Böyle olduğunda düzenlenmiş net karların tarihilerine göre ek 5 ile 10 puan arası daha düşük ve düzenlenmiş özkaynakların tarihilerine göre ek 20 ile 40 puan arası daha yüksek çıkmasını beklerim.
+    Bunun da şirketlerin çoğunda düzenlenmiş parasal olmayan duran varlıkların, ve böylece amortisman ve itfa giderlerinin, tarihilerine göre ek 30 ile 50 puan arası daha yüksek (tarihiyle düzenlenmişin farkı örneğin %50'se, %80 ile %100'e) çıkmasına neden olacağını tahmin ediyorum. Böyle olduğunda düzenlenmiş net karların tarihilerine göre ek 5 ile 10 puan arası daha düşük ve düzenlenmiş özkaynakların tarihilerine göre ek 20 ile 40 puan arası daha yüksek çıkmasını beklerdim.
 
 1. BIST-50’de Mart 2023 itibariyle 7 banka var. Diğer 43’ü sanayi, ticaret veya finans dışı hizmet sektörlerinde olup TMS İlke Kararı 2019-1 formatında mali tablo açıklıyorsa da sadece 28+3'ünün enflasyon muhasebesi uygulanmış sonuçları yukarıdaki tablolarda olup 12'sinin yok.
 
     Bunun nedeni 6'sının mali tablolarının işlevsel para biriminin TL olmaması (ENKAI, EREGL, KORDS, PGSUS, TAVHL, THYAO), 2'sinin 2020 sonrası halka açılma nedeniyle yakın tarihli bazı çeyreksel finansallarının olmaması (GESAN, SMRTG) ve 4'ünün elimdeki elektronik olarak hazır verilerle enflasyon muhasebesi uygulandığında ek hata olasılığının (bkz alttaki yöntem notu) fazla yüksek olması (AEFES, EKGYO, ISGYO, ODAS).
 
-1. Geliştirdiğim modelde parasal olmayan varlık ve kaynakların yeniden değerlemesinin 2020 sonundan başlamış olması gibi tüm şirketler için geçerli zayıf noktalar var. Böyle noktaların sayısı ve önemi şirketine göre yapısal ek farklılıklar olduğunda (özkaynak yöntemli veya işlevsel para birimi TL olmayan iştirakler gibi) az veya çok artabiliyor ama bu farkların etkilerini her zaman tahmin etmek zor. Aşağıdaki iki tablo model açısından şirket bazında belirlediğim sorunları ve ek hata olasılıklarını gösteriyor.
+1. Geliştirdiğim modelde parasal olmayan varlık ve kaynakların yeniden değerlemesinin 2020 sonundan başlamış olması gibi tüm şirketler için geçerli zayıf noktalar var. Böyle noktaların sayısı ve önemi şirketine göre yapısal ek farklılıklar olduğunda (özkaynak yöntemli veya işlevsel para birimi TL olmayan iştirakler gibi) az veya çok artabiliyor ama bu farkların etkilerini her zaman tahmin etmek zor. Model açısından şirket bazında belirlediğim sorunları ve ek hata olasılıklarını aşağıdaki iki tablodan görebilirsiniz.
 <br/><br/>
 <div style="display: flex; justify-content: center;">
   <a href="/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/Sirket-notlari-1.png">

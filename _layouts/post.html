@@ -37,6 +37,10 @@ layout: base
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
+<!-- If a more recent version of mathjax available, loads the most recent. 
+See https://www.martinklein.co/2022/02/18/latex-in-jekyll.html and 
+https://docs.mathjax.org/en/v2.7-latest/start.html#using-a-content-delivery-network-cdn 
+for details -->
 <script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
 </script>

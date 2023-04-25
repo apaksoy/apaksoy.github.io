@@ -5,7 +5,7 @@ related_image: /assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-202
 categories: hisse
 ---
 
-Hisseleri Borsa İstanbul’da işlem gören 12 banka 2022’de toplam 301 milyar TL kar etmiş gözükürken (“Tarihi”), TÜFE bazlı enflasyon muhasebesi uygulandığında bu toplam %92 azalarak 2022 sonu TL’si cinsinden aşağıdaki tabloda gözüktüğü gibi 25 milyar TL’ye (“Düzenlenmiş”) iniyor. Bu tabloya göre enflasyon muhasebesi uygulandığında, örneğin Akbank’ın 2022’de 60 milyar TL net kar yerine 11 milyar TL net kar ettiği, Halkbank’ınsa 15 milyar TL net kar yerine 14 milyar TL zarar ettiği ortaya çıkıyor.
+Hisseleri Borsa İstanbul’da işlem gören 12 banka 2022’de toplam 301 milyar TL kar etmiş gözükürken (“Tarihi”), TÜFE bazlı enflasyon muhasebesi uygulandığında bu toplam %92 azalarak 2022 sonu TL’si cinsinden aşağıdaki tabloda gözüktüğü gibi 25 milyar TL’ye (“Düzenlenmiş”) iniyor. Bu tabloya göre, enflasyon muhasebesi uygulandığında, örneğin Akbank’ın 2022’de 60 milyar TL net kar yerine 11 milyar TL net kar ettiği, Halkbank’ınsa 15 milyar TL net kar yerine 14 milyar TL zarar ettiği ortaya çıkıyor.
 
 <br/>
 [![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyona muhasebesi uygulanmış 2022 net karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg)
@@ -35,9 +35,9 @@ Peki neden böyle oluyor? Çünkü hemen her bankanın parasal varlıkları para
 
 Örneğin yılbaşında tüm varlığı 100 TL nakit, tüm kaynağı 100 TL özkaynak olan bir şirketin sene sonunda tüm varlığı 150 TL nakit, özkaynağı da 150 TL olduğunda tarihi mali tablolarda 50 TL kar gözükürken, %80 yıllık enflasyon söz konusu olup enflasyon muhasebesi uygulandığında sene sonu TL’si cinsinden 30 TL zarar (150 - 100 * 1,8) çıkar. Özkaynaksa sene sonu TL’si cinsinden 150 TL olarak (100 * 1,8 - 30) gözükmeye devam eder.
 
-Neredeyse hiçbir şirketin mali tablosu bu kadar basit olmadığından enflasyon muhasebesinin uygulanması da böyle kolay değil. Üstelik enflasyon muhasebesinin tam usulünce uygulanabilmesi için banka bazında gerekli tüm detaylar kamuya açıklanmış değilken bazıları açıklanmış olsa da elektronik olarak kolay bir şekilde edinilebilinecek bir formatta değil. Ama olanlar kabaca bir hesap yapılabilmesi ve yeterli bir fikir edinilmesi için genellikle yeterli.
+Neredeyse hiçbir şirketin mali tablosu bu kadar basit olmadığından enflasyon muhasebesinin uygulanması da böyle kolay değil. Üstelik enflasyon muhasebesinin tam usulünce uygulanabilmesi için banka bazında gerekli tüm detaylar kamuya açıklanmış olmadığı gibi açıklanmış olanların da hepsi elektronik olarak kolay bir şekilde edinilebilinecek bir formatta değil. Ama olanlar kabaca bir hesap yapılabilmesi ve yeterli bir fikir edinilmesi için genellikle yeterli.
 
-Olur da bankalar 2021 veya 2022 yılı için mali tablolarını enflasyon muhasebesi uygulanmış olarak birgün kamuya açıklarlarsa, tümünde buradakilere yakın rakamlar çıkar diye bir iddiam yok çünkü bazı önemli detaylar net olmadığı gibi olanların da bazıları o zamana kadar değişebilir veya ek kural gelebilir. Örneğin genel fiyat düzeyi için tam neyin baz alınacağı açık değil. Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da ne vergi kanunlarında ne de TMS’de bu konuda netlik var.
+Olur da bankalar 2022 veya 2021 için mali tablolarını enflasyon muhasebesi uygulanmış olarak birgün kamuya açıklarlarsa, tümünde buradakilere yakın rakamlar çıkar diye bir iddiam yok çünkü bazı önemli detaylar net olmadığı gibi olanların da bazıları o zamana kadar değişebilir veya ek kural gelebilir. Örneğin genel fiyat düzeyi için tam neyin baz alınacağı açık değil. Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da ne vergi kanunlarında ne de TMS’de bu konuda netlik var.
 
 Yine de hesapladığım enflasyon muhasebesi uygulanmış rakamların bankaların “gerçek” rakamlarına epey daha yakın olduğunu tahmin ediyorum. Buna dolaylı bir delil olarak Garanti’nin 2022 konsolide BDDK net karı 58 milyar TL gözükürken Garanti’nin ana hissedarı BBVA’in 2022 mali tablolarına konsolide ettiği enflasyon muhasebesi uygulanmış UFRS mali tablolarda Garanti’nin net karının 10,8 milyar TL gözükmesini gösterebilirim. (Bkz BBVA'in yatırımcı ilişkileri internet sitesindeki "[Financial reports](https://shareholdersandinvestors.bbva.com/financials/financial-reports/#2022)" sayfasındaki “4Q22 Quarterly Report” Excel dosyası.)
 
@@ -71,4 +71,4 @@ Not: Bu yazının bir benzerini [Twitter üzerinden](https://twitter.com/curiosu
 ### Düzeltme ve değişiklikler
 Bu yazı yayımlandığından beri ciddi bir değişikliğe uğramadı.
 <br/><br/><br/>
-#Enflasyon #IAS29 #UMS29 #TMS29 #Muhasebe #Finansal #BIST #XBANK #AKBNK #GARAN #HALKB #ISCTR #TSKB #VAKBN #YKBNK
+#Enflasyon #IAS29 #UMS29 #TMS29 #Muhasebe #Finansal #BIST #XBANK #AKBNK #GARAN #HALKB #ISCTR #TSKB #VAKBN #YKBNK #ALBRK #ICBCT #KLNMA #QNBFB #SKBNK

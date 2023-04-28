@@ -37,7 +37,7 @@ Peki neden böyle oluyor? Çünkü hemen her bankanın parasal varlıkları para
 
 Neredeyse hiçbir şirketin mali tablosu bu kadar basit olmadığından enflasyon muhasebesinin uygulanması da böyle kolay değil. Üstelik enflasyon muhasebesinin tam usulünce uygulanabilmesi için banka bazında gerekli tüm detaylar kamuya açıklanmış olmadığı gibi açıklanmış olanların da hepsi elektronik olarak kolay bir şekilde edinilebilinecek bir formatta değil. Ama olanlar kabaca bir hesap yapılabilmesi ve iyi bir fikir edinilmesi için genellikle yeterli.
 
-Olur da bankalar 2022 veya 2021 için mali tablolarını enflasyon muhasebesi uygulanmış olarak birgün kamuya açıklarlarsa, tümünde buradakilere yakın rakamlar çıkar diye bir iddiam yok çünkü bazı önemli detaylar net olmadığı gibi olanların da bazıları o zamana kadar değişebilir veya ek kural gelebilir. Örneğin genel fiyat düzeyi için tam neyin baz alınacağı açık değil. Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da TMS’de bu konuda netlik yok.[^1]
+Olur da bankalar 2022 veya 2021 için mali tablolarını enflasyon muhasebesi uygulanmış olarak birgün kamuya açıklarlarsa, tümünde buradakilere yakın rakamlar çıkar diye bir iddiam yok çünkü bazı önemli detaylar net olmadığı gibi olanların da bazıları o zamana kadar değişebilir veya ek kural gelebilir. Örneğin genel fiyat düzeyi için tam neyin baz alınacağı açık değil. Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da TMS 29’da bu konuda netlik yok.[^1]
 
 Yine de hesapladığım enflasyon muhasebesi uygulanmış rakamların bankaların “gerçek” rakamlarına epey daha yakın olduğunu tahmin ediyorum. Buna dolaylı bir delil olarak Garanti’nin 2022 konsolide BDDK net karı 58 milyar TL gözükürken Garanti’nin ana hissedarı BBVA’in 2022 mali tablolarına konsolide ettiği enflasyon muhasebesi uygulanmış UFRS mali tablolarda Garanti’nin net karının 10,8 milyar TL gözükmesini gösterebilirim. (Bkz BBVA'in yatırımcı ilişkileri internet sitesindeki "[Financial reports](https://shareholdersandinvestors.bbva.com/financials/financial-reports/#2022)" sayfasındaki “4Q22 Quarterly Report” Excel dosyası.)
 
@@ -67,9 +67,8 @@ Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayım
 1. Sonuçları çok etkilemiyor ama vergi amaçlı mali tablolarda enflasyon muhasebesi uygulamasına izin verilmediğini varsayarak enflasyon muhasebesi uygulanmış mali tablolarda ek ertelenmiş vergi gideri hesabını da işin içine kattım.
 
 Not: Bu yazının bir benzerini [Twitter üzerinden](https://twitter.com/curiosus137/status/1639210228469121024?s=61&t=ckXSOwzZY7rHjBboCn3XJg) daha önce yayımladım.
-
+<br/><br/>
 #Enflasyon #IAS29 #UMS29 #TMS29 #Muhasebe #Finansal #BIST #XBANK #AKBNK #GARAN #HALKB #ISCTR #TSKB #VAKBN #YKBNK #ALBRK #ICBCT #KLNMA #QNBFB #SKBNK
-<br/>
 
 ### Önemli düzeltme ve değişiklikler
-[^1]: "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da ne vergi kanunlarında ne de TMS’de bu konuda netlik var." -> "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da TMS’de bu konuda netlik yok.", 2023-04-28
+[^1]: "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da ne vergi kanunlarında ne de TMS’de bu konuda netlik var." -> "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da TMS 29’da bu konuda netlik yok.", 2023-04-28

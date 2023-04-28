@@ -6,7 +6,7 @@ title: Yatırım Defteri
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Hisse senetleri ve diğer yatırım araçları üzerine analizler
+  Hisse senetleri ve diğer yatırım araçları üzerine
 
 # Build settings
 

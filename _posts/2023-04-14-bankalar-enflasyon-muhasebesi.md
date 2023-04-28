@@ -19,7 +19,7 @@ Bankaların enflasyon muhasebesi uygulanmış net karlarının tarihilerden bu k
 [![Borsa İstanbul’da işlem gören bankaların 2022 ve 2021 net parasal pozisyon karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-parasal-kar-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-parasal-kar-2022-2021.jpg)
 <br/>
 
-Özkaynaklardaysa durum farklı: Aşağıdaki tabloda gözüktüğü gibi 12 bankanın 2022 sonundaki 897 milyar TL’lik toplam özkaynağı, enflasyon muhasebesi uygulandığında %10 olumlu farkla 2022 sonu TL’si cinsinden 985 milyar TL oluyor. 2021 özkaynak toplamıysa %5 olumlu farkla 2021 sonu TL’si cinsinden 468 milyar TL çıkıyor.
+Özkaynaklardaysa durum farklı; aşağıdaki tabloda gözüktüğü gibi 12 bankanın 2022 sonundaki 897 milyar TL’lik toplam özkaynağı, enflasyon muhasebesi uygulandığında %10 olumlu farkla 2022 sonu TL’si cinsinden 985 milyar TL oluyor. 2021 özkaynak toplamıysa %5 olumlu farkla 2021 sonu TL’si cinsinden 468 milyar TL çıkıyor.
 
 <br/>
 [![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyona muhasebesi uygulanmış 2022 ve 2021 özkaynakları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg)
@@ -35,7 +35,7 @@ Peki neden böyle oluyor? Çünkü hemen her bankanın parasal varlıkları para
 
 Örneğin yılbaşında tüm varlığı 100 TL nakit, tüm kaynağı 100 TL özkaynak olan bir şirketin sene sonunda tüm varlığı 150 TL nakit, özkaynağı da 150 TL olduğunda tarihi mali tablolarda 50 TL kar gözükürken, %80 yıllık enflasyon söz konusu olup enflasyon muhasebesi uygulandığında sene sonu TL’si cinsinden 30 TL zarar (150 - 100 * 1,8) çıkar. Özkaynaksa sene sonu TL’si cinsinden 150 TL olarak (100 * 1,8 - 30) gözükmeye devam eder.
 
-Neredeyse hiçbir şirketin mali tablosu bu kadar basit olmadığından enflasyon muhasebesinin uygulanması da böyle kolay değil. Üstelik enflasyon muhasebesinin tam usulünce uygulanabilmesi için banka bazında gerekli tüm detaylar kamuya açıklanmış olmadığı gibi açıklanmış olanların da hepsi elektronik olarak kolay bir şekilde edinilebilinecek bir formatta değil. Ama olanlar kabaca bir hesap yapılabilmesi ve yeterli bir fikir edinilmesi için genellikle yeterli.
+Neredeyse hiçbir şirketin mali tablosu bu kadar basit olmadığından enflasyon muhasebesinin uygulanması da böyle kolay değil. Üstelik enflasyon muhasebesinin tam usulünce uygulanabilmesi için banka bazında gerekli tüm detaylar kamuya açıklanmış olmadığı gibi açıklanmış olanların da hepsi elektronik olarak kolay bir şekilde edinilebilinecek bir formatta değil. Ama olanlar kabaca bir hesap yapılabilmesi ve iyi bir fikir edinilmesi için genellikle yeterli.
 
 Olur da bankalar 2022 veya 2021 için mali tablolarını enflasyon muhasebesi uygulanmış olarak birgün kamuya açıklarlarsa, tümünde buradakilere yakın rakamlar çıkar diye bir iddiam yok çünkü bazı önemli detaylar net olmadığı gibi olanların da bazıları o zamana kadar değişebilir veya ek kural gelebilir. Örneğin genel fiyat düzeyi için tam neyin baz alınacağı açık değil. Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da ne vergi kanunlarında ne de TMS’de bu konuda netlik var.
 

@@ -138,7 +138,7 @@ Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [r
   </a>
 </div>
 <br/>
-### Düzeltme ve değişiklikler
+### Önemli düzeltme ve değişiklikler
 Bu yazı yayımlandığından beri ciddi bir değişikliğe uğramadı.
 <br/><br/><br/>
 #Enflasyon #IAS29 #UMS29 #TMS29 #Muhasebe #Finansal #BIST #XBANK #XU050 #AKSA #AKSEN #ALARK #ARCLK #ASELS #BERA #BIMAS #DOHOL #EGEEN #ENJSA #FROTO #GUBRF #HEKTS #KONTR #KOZAL #KRDMD #MGROS #OYAKC #PETKM #SASA #SISE #SOKM #TCELL #TKFEN #TOASO #TTKOM #TUPRS #VESTL #KCHOL #KOZAA #SAHOL

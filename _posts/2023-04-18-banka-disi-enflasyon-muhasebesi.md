@@ -18,12 +18,12 @@ Aynı şirketlerin 2021 mali tablolarına enflasyon muhasebesi uygulandığında
 
 Borsa İstanbul’da işlem gören bankaların mali tablolarına TÜFE bazlı enflasyon muhasebesi uygulandığında sene sonu TL’si cinsinden 2022 net karları toplamının tarihilere göre %92 daha düşük çıktığını "[Bankaların 2022 ve 2021 mali tablolarına enflasyon muhasebesi uygulanması](/hisse/2023/04/14/bankalar-enflasyon-muhasebesi.html)" başlıklı yazımda (okumanızı öneririm) açıklamıştım. 
 Aynı yazıda aynı bankaların 63 milyar TL'lik 2021 toplam net karlarının enflasyon muhasebesi uygulandığında sene sonu TL'si cinsinden 48 milyar TL'lik zarara dönüştüğünü de belirtmiştim.
-#### Satış gelirleri
+### Satış gelirleri
 Banka dışı 28 şirketin 2022 ve 2021 düzenlenmiş ciroları aşağıdaki tablodan görülebileceği gibi tarihilere göre, sırasıyla, %18 ve %23 daha yüksek çıkıyor. Düzenlenmiş ciroların tarihilerden farkı ilgili yıllar için şirketlerin çoğunda bu seviyelere yakın.
 
 <br/>
 [![Şirketlerin 2022 ve 2021 tarihi ve düzenlenmiş satış gelirleri.](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-ciro.png){:height="350px"}](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-ciro.png)
-#### Esas faaliyet karları
+### Esas faaliyet karları
 Şirketlerin 2022 düzenlenmiş esas faaliyet karları (EFK) aşağıdaki soldan birinci tablodan görülebileceği gibi tarihilere göre %34 düşük çıkarken, EFK marjları 5,7 puan inerek %7,2 oluyor. Şirketlerin 2021 için düzenlenmiş EFK'sı, aşağıdaki ikinci tabloda yer aldığı üzere, tarihilere göre %1 yükselirken, EFK marjları 2,9 puan azalışla %13,7 oluyor. Düzenlenmiş EFK'sı cirosuna oranla (marjı) tarihisine göre 2022’de ve 2021’de en çok düşen sırasıyla eksi 18,2 puan ve eksi 7,8 puanla Aselsan (ASELS). EFK marjı aynı yıllarda en az etkilenense sırasıyla eksi 0,5 puan ve eksi 0,3 puanla Aksa Enerji (AKSEN).
 <br/><br/>
 <div style="display: flex; justify-content: center;">
@@ -40,8 +40,8 @@ Banka dışı 28 şirketin 2022 ve 2021 düzenlenmiş ciroları aşağıdaki tab
 </div>
 <br/><br/>
 Enflasyon muhasebesiyle ciroların yükselmesine rağmen esas faaliyet karlarının inmesi, maliyetlerin daha çok değerlenmesinden. Bu da stokların ve ilgili duran varlıkların yeniden değerlemesiyle, sırasıyla, amortisman dışı maliyetlerin ve amortismanların hızlı artışından kaynaklanıyor.
-#### Net parasal pozisyon karları
-Esas faaliyet kar marjlarındaki düzeltmeden sonra buradaki şirketlerin net karlarını en çok etkileyen aşağıdaki iki tabloda gösterilmiş olan olan net parasal pozisyon karları. Şirketler 2022’de ve 2021’de cirolarına oranla, bankaların tersine, sırasıyla %3,4 ve %2,2 net parasal pozisyon karı elde etmiş. Hem 2022’de hem de 2021’de cirosuna oranla en çok net parasal pozisyon karı elde eden sırasıyla 15,7 milyar TL ve 6,7 milyar TL’le TTKOM. Aynı yıllarda cirosuna oranla en çok net parasal pozisyon zararı edense eksi 6,2 milyar TL ve eksi 2,9 milyar TL’le KOZAL.
+### Net parasal pozisyon karları
+Esas faaliyet kar marjlarındaki düzeltmeden sonra buradaki şirketlerin net karlarını en çok etkileyen aşağıdaki iki tabloda gösterilmiş olan olan net parasal pozisyon karları. Buradaki şirketler 2022’de ve 2021’de cirolarına oranla, bankaların tersine, sırasıyla %3,8 ve %3,2 net parasal pozisyon karı elde etmiş. Hem 2022’de hem de 2021’de cirosuna oranla en çok net parasal pozisyon karı elde eden sırasıyla 15,7 milyar TL ve 6,7 milyar TL’le TTKOM. Aynı yıllarda cirosuna oranla en çok net parasal pozisyon zararı edense eksi 6,2 milyar TL ve eksi 2,9 milyar TL’le KOZAL.
 <br/><br/>
 <div style="display: flex; justify-content: center;">
   <a href="/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-NPP-kar-ve-marj.png">
@@ -57,12 +57,12 @@ Esas faaliyet kar marjlarındaki düzeltmeden sonra buradaki şirketlerin net ka
 </div>
 <br/>
 Şirketlerin hem toplam hem de ciroya oranla ortanca net parasal pozisyon karlarının artı çıkması çoğunun finansal ve ticari borçlar gibi parasal yükümlülüklerinin nakit, ticari alacak ve finansal yatırım gibi parasal varlıklarından daha fazla olmasından kaynaklanıyor.
-#### Özkaynaklar
+### Özkaynaklar
 Şirketlerin düzenlenmiş özkaynaklarının tarihilerine göre 2022’de (ortanca) %25, 2021’de %18 yükseldiğini aşağıdaki tablodan görmek mümkün. Düzenlenmiş özkaynağı tarihisine göre 2022’de en çok ve en az artan şirket sırasıyla %126’la Migros (MGROS) ve %6’la KOZAL.
 
 <br/>
 [![Şirketlerin 2022 ve 2021 tarihi ve düzenlenmiş özkaynakları.](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-ozkaynak.png){:height="350px"}](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-ozkaynak.png)
-#### Diğer şirketler
+### Diğer şirketler
 Toplulaştırılmış rakamlarda tekrar olmasın diye yukarıdaki tablolara almadığım Koç (KCHOL) ve Sabancı’nın (SAHOL) 2022 düzenlenmiş net karları tarihilerden sırasıyla %30 ve %62 daha az. 
 Aynı nedenden dolayı yukarıdaki tablolara almadığım Koza Anadolu'nun (KOZAA) 2022 tarihi net karı artıyken, düzenlenmiş net karı KOZAL'ınki gibi eksi. SAHOL’de farkın KCHOL'e göre daha çok olması karın daha büyük bir bölümünün banka iştirakinden gelmesinden.
 <br/><br/>
@@ -78,7 +78,7 @@ Aynı nedenden dolayı yukarıdaki tablolara almadığım Koza Anadolu'nun (KOZA
     height="145" />
   </a>
 </div>
-#### TÜFE yerine Yİ-ÜFE kullanılırsa
+### TÜFE yerine Yİ-ÜFE kullanılırsa
 Enflasyon muhasebesini uygularken TÜFE yerine Yİ-ÜFE kullanılırsa alttaki dört tablodan görülebileceği gibi tarihilerine göre 2022 sene sonu TL'si cinsinden düzenlenmiş cirolar %21 yüksek (TÜFE bazlı %18 yüksek), esas faaliyet karları %84 düşük (TÜFE bazlı %34 düşük), net karlar %35 düşük (TÜFE bazlı %21 düşük), özkaynaklar %54 yüksek (TÜFE bazlı %25 yüksek) çıkıyor.
 <br/><br/>
 <div style="display: flex; justify-content: center;">
@@ -104,7 +104,7 @@ Enflasyon muhasebesini uygularken TÜFE yerine Yİ-ÜFE kullanılırsa alttaki d
   </a>
 </div>
 <br/>
-### Model, kaynaklar ve yöntem notları
+## Model, kaynaklar ve yöntem notları
 Yapısal nedenlerden dolayı, kamuya açıklanmayan belli detaylar olmadan, finansal olmayan şirketlere enflasyon muhasebesi uygulamak bankalara göre sık sık daha zor. Bu yüzden yukarıdaki tablolardaki enflasyon muhasebesi uygulanmış finansal kalemlerdeki muhtemel hata payları bazen çok düşük olmayıp, şirket bazında değişken. Ama tahminim hem toplu hem de şirket bazındaki rakamların yön ve büyüklük olarak fikir verebilecek ölçüde doğru olduğu.
 
 Hepsi TMS İlke Kararı 2019-1 formatında mali tablo açıklıyor olan buradaki şirketler için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini (bankalar için olandan farklı) [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjXjRvsYemCMNVppg?e=Wt9pBL) görebilirsiniz. Modeli kabaca [UMS 29 / TMS 29](https://www.mazars.com.tr/Anasayfa/Hizmetlerimiz/Denetim-guevence/Enflasyon-muhasebesi/IAS-29-TMS-29-nedir) muhasebe standartlarının temel prensiplerine uygun olarak inşa ettim. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
@@ -121,7 +121,7 @@ Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [r
 
 1. BIST-50’de Mart 2023 itibariyle 7 banka var. Diğer 43’ü sanayi, ticaret veya finans dışı hizmet sektörlerinde olup TMS İlke Kararı 2019-1 formatında mali tablo açıklıyorsa da sadece 28+3'ünün enflasyon muhasebesi uygulanmış sonuçları yukarıdaki tablolarda olup 12'sinin yok.
 
-    Bunun nedeni 6'sının mali tablolarının işlevsel para biriminin TL olmaması (ENKAI, EREGL, KORDS, PGSUS, TAVHL, THYAO), 2'sinin 2020 sonrası halka açılma nedeniyle yakın tarihli bazı çeyreksel finansallarının olmaması (GESAN, SMRTG) ve 4'ünün elimdeki elektronik olarak hazır verilerle enflasyon muhasebesi uygulandığında ek hata olasılığının (bkz alttaki yöntem notu) fazla yüksek olması (AEFES, EKGYO, ISGYO, ODAS).
+    Bunun nedeni 6'sının mali tablolarının işlevsel (geçerli) para biriminin TL olmaması (ENKAI, EREGL, KORDS, PGSUS, TAVHL, THYAO), 2'sinin 2020 sonrası halka açılma nedeniyle yakın tarihli bazı çeyreksel finansallarının olmaması (GESAN, SMRTG) ve 4'ünün elimdeki elektronik olarak hazır verilerle enflasyon muhasebesi uygulandığında ek hata olasılığının (bkz alttaki yöntem notu) fazla yüksek olması (AEFES, EKGYO, ISGYO, ODAS).
 
 1. Geliştirdiğim modelde parasal olmayan varlık ve kaynakların yeniden değerlemesinin 2020 sonundan başlamış olması gibi tüm şirketler için geçerli zayıf noktalar var. Böyle noktaların sayısı ve önemi şirketine göre yapısal ek farklılıklar olduğunda (özkaynak yöntemli veya işlevsel para birimi TL olmayan iştirakler gibi) az veya çok artabiliyor ama bu farkların etkilerini her zaman tahmin etmek zor. Model açısından şirket bazında belirlediğim sorunları ve ek hata olasılıklarını aşağıdaki iki tablodan görebilirsiniz.
 <br/><br/>
@@ -137,8 +137,8 @@ Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [r
     width="340" />
   </a>
 </div>
-<br/>
-### Önemli düzeltme ve değişiklikler
-Bu yazı yayımlandığından beri ciddi bir değişikliğe uğramadı.
+
+## Önemli değişiklikler
+1. "Buradaki şirketler 2022’de ve 2021’de cirolarına oranla, bankaların tersine, sırasıyla %3,4 ve %2,2 net parasal pozisyon karı elde etmiş." -> "Buradaki şirketler 2022’de ve 2021’de cirolarına oranla, bankaların tersine, sırasıyla %3,8 ve %3,2 net parasal pozisyon karı elde etmiş.", 2023-04-30
 <br/><br/><br/>
 #Enflasyon #IAS29 #UMS29 #TMS29 #Muhasebe #Finansal #BIST #XBANK #XU050 #AKSA #AKSEN #ALARK #ARCLK #ASELS #BERA #BIMAS #DOHOL #EGEEN #ENJSA #FROTO #GUBRF #HEKTS #KONTR #KOZAL #KRDMD #MGROS #OYAKC #PETKM #SASA #SISE #SOKM #TCELL #TKFEN #TOASO #TTKOM #TUPRS #VESTL #KCHOL #KOZAA #SAHOL

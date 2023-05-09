@@ -46,17 +46,17 @@ Bankalar için enflasyon muhasebesi uygulanmış rakamları hesaplarken kulland�
 
 Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
 
-Excel’deki modeli geliştirirken 20 küsur yıllık finansal analistlik tecrübem ve 1990’ların sonlarından 2000’lerin ortasına kadar enflasyon muhasebesi uygulanmış mali tablolarla bol bol uğraşmışlığım yanında, birçok kaynak içinde, en çok şu üçünden faydalandım: 
+Excel’deki modeli geliştirirken 20 küsur yıllık finansal analistlik tecrübem ve 1990’ların sonlarından 2000’lerin ortasına kadar enflasyon muhasebesi uygulanmış mali tablolar üzerinde bol bol çalışmışlığım yanında, birçok kaynak içinde, en çok şu üçünden faydalandım: 
 
 1. “[Enflasyon Muhasebesi Uygulamalarında Temel İşlemler Üzerine Bir Çalışma](https://dergipark.org.tr/en/pub/kmusekad/issue/10228/125786)”, 2005, Karasioğlu ve Erdemir, Karamanoğlu Mehmetbey Üniversitesi Sosyal Ve Ekonomik Araştırmalar Dergisi 2005/2 
 
-1. "[IAS 29 Financial Reporting in Hyperinflationary Economies](https://www.deloitteifrslearning.com/media/modules/ebf2c53c/sco/story_html5.html?lms=1)", Deloitte e-learning module 
+1. "[IAS 29 Financial Reporting in Hyperinflationary Economies](https://www.deloitteifrslearning.com/media/modules/ebf2c53c/sco/story_html5.html?lms=1)", Deloitte çevrimiçi eğitim uygulaması 
 
 1. “[Chapter 7: Practical Example of IAS 29](https://www.icjce.es/images/pdfs/TECNICA/C02%20-%20IASB/C207%20-%20IAS-PwC%20y%20otros/PWC-UIAS%2029%20Practical%20example.pdf)”, 2002, PricewaterhouseCoopers
 
 Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayımlarda bulunmam gerekti Bunlardan bazıları şöyle:
 
-1. ALBRK ve KLNMA hariç enflasyon muhasebesi uygulandığında daha doğru sonuç verdiğini tahmin ettiğim için konsolide mali tabloları (BDDK ya da ÖFK) kullandım.
+1. Sadece halka açık veriler kullanılıyor. ALBRK ve KLNMA hariç enflasyon muhasebesi uygulandığında daha doğru sonuç verdiğini tahmin ettiğim için konsolide mali tabloları (BDDK ya da ÖFK) kullandım.
 
 1. Enflasyon muhasebesini çeyreksel mali tablolara uyguladıktan sonra yıllık rakamları hesapladım. Bu yaklaşım yıllık rakamların daha güvenilir bir şekilde hesaplanmasını sağlıyor.
 
@@ -66,9 +66,11 @@ Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayım
 
 1. Sonuçları çok etkilemiyor ama vergi amaçlı mali tablolarda enflasyon muhasebesi uygulamasına izin verilmediğini varsayarak enflasyon muhasebesi uygulanmış mali tablolarda ek ertelenmiş vergi gideri hesabını da işin içine kattım.
 
-Not: Bu yazının bir benzerini [Twitter üzerinden](https://twitter.com/curiosus137/status/1639210228469121024?s=61&t=ckXSOwzZY7rHjBboCn3XJg) daha önce yayımladım.
-<br/>
-### Önemli değişiklikler
+### Notlar ve önemli değişiklikler
+1. Bu yazının bir benzerini [Twitter üzerinden](https://twitter.com/curiosus137/status/1639210228469121024?s=61&t=ckXSOwzZY7rHjBboCn3XJg) daha önce yayımladım.
+
+1. Tam bu yazıdaki konuyla ilgili Artunç Kocabalkan'ın benimle yaptığı röportaja [YouTube üzerinden](https://www.youtube.com/watch?v=GQpxMQy0x44) ulaşabilirsiniz.
+
 1. "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da ne vergi kanunlarında ne de TMS’de bu konuda netlik var." -> "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da TMS 29’da bu konuda netlik yok.", 2023-04-28
 <br/><br/><br/>
 #Enflasyon #IAS29 #UMS29 #TMS29 #Muhasebe #Finansal #BIST #XBANK #AKBNK #GARAN #HALKB #ISCTR #TSKB #VAKBN #YKBNK #ALBRK #ICBCT #KLNMA #QNBFB #SKBNK

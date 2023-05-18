@@ -4,7 +4,7 @@ title: "Banka harici BIST-50 şirketlerinin 2022 ve 2021 mali tablolarına enfla
 related_image: /assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-2021-diger-kar.png
 categories: hisse
 ---
-Hissesi BIST-50’de yer alıp sanayi, ticaret veya finans dışı hizmet sektöründe faal 28 şirketin finansallarına TÜFE bazlı enflasyon muhasebesi uygulandığında, sene sonu TL’si cinsinden 2022 net karları (“Düzenlenmiş”), bilinen net karlarından (“Tarihi”) aşağıdaki tabloda gösterildiği gibi %21 az çıkıyor. Bu şirketler arasında 2022 düzenlenmiş net karı cirosuna oranla tarihisine göre en çok düşenin Koza Altın (KOZAL) (4,0 milyar TL’den eksi 2,1 milyar TL’ye), en çok çıkanınsa Türk Telekom (TTKOM) olduğunu (4,1 milyar TL’den 11,6 milyar TL’ye) görüyoruz.
+Hissesi BIST-50’de yer alıp sanayi, ticaret veya finans dışı hizmet sektöründe faal 28 şirketin finansallarına TÜFE[^TUFE] bazlı enflasyon muhasebesi uygulandığında, sene sonu TL’si cinsinden 2022 net karları (“Düzenlenmiş”), bilinen net karlarından (“Tarihi”) aşağıdaki tabloda gösterildiği gibi %21 az çıkıyor. Bu şirketler arasında 2022 düzenlenmiş net karı cirosuna oranla tarihisine göre en çok düşenin Koza Altın (KOZAL) (4,0 milyar TL’den eksi 2,1 milyar TL’ye), en çok çıkanınsa Türk Telekom (TTKOM) olduğunu (4,1 milyar TL’den 11,6 milyar TL’ye) görüyoruz.
 
 <br/>
 [![Şirketlerin 2022 tarihi ve düzenlenmiş net karları ve net kar marjları.](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-kar-ve-marj.png){:height="350px"}](/assets/2023-04-18-banka-disi-enflasyon-muhasebesi/2022-kar-ve-marj.png)
@@ -109,7 +109,7 @@ Yapısal nedenlerden dolayı, kamuya açıklanmayan belli detaylar olmadan, fina
 
 Hepsi TMS İlke Kararı 2019-1 formatında mali tablo açıklıyor olan buradaki şirketler için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini (bankalar için olandan farklı) [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjXjRvsYemCMNVppg?e=Wt9pBL) görebilirsiniz. Modeli kabaca [UMS 29 / TMS 29](https://www.mazars.com.tr/Anasayfa/Hizmetlerimiz/Denetim-guevence/Enflasyon-muhasebesi/IAS-29-TMS-29-nedir) muhasebe standartlarının temel prensiplerine uygun olarak inşa ettim. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
 
-Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
+Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve [EquityRT]((https://equityrt.com/)) (ücretli) aboneliğinizin olması gerekiyor.
 
 Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [referansların ve yöntem notlarının](/hisse/2023/04/14/bankalar-enflasyon-muhasebesi.html#model-kaynaklar-ve-yöntem-notları) ilgili olanlarının hepsi buradaki model için de geçerli ve yazıyı uzatmamak için bunları tekrarlamıyorum. Ancak bu yazıdaki model ve şirketlere özel olarak şunları eklememde fayda var:
 
@@ -140,5 +140,6 @@ Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [r
 
 ## Önemli değişiklikler
 1. "Buradaki şirketler 2022’de ve 2021’de cirolarına oranla, bankaların tersine, sırasıyla %3,4 ve %2,2 net parasal pozisyon karı elde etmiş." -> "Buradaki şirketler 2022’de ve 2021’de cirolarına oranla, bankaların tersine, sırasıyla %3,8 ve %3,2 net parasal pozisyon karı elde etmiş.", 2023-04-30
-<br/><br/><br/>
-#Enflasyon #IAS29 #UMS29 #TMS29 #Muhasebe #Finansal #BIST #XBANK #XU050 #AKSA #AKSEN #ALARK #ARCLK #ASELS #BERA #BIMAS #DOHOL #EGEEN #ENJSA #FROTO #GUBRF #HEKTS #KONTR #KOZAL #KRDMD #MGROS #OYAKC #PETKM #SASA #SISE #SOKM #TCELL #TKFEN #TOASO #TTKOM #TUPRS #VESTL #KCHOL #KOZAA #SAHOL
+
+### Dipnotlar
+[^TUFE]: TÜİK

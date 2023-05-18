@@ -55,4 +55,7 @@ minima:
 #
 show_excerpts: true
 
+exclude:
+  - inactive_drafts/
+
 google_analytics: G-MHLS2QZ1X6

@@ -5,10 +5,10 @@ related_image: /assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-202
 categories: hisse
 ---
 
-Hisseleri Borsa İstanbul’da işlem gören 12 banka 2022’de toplam 301 milyar TL kar etmiş gözükürken (“Tarihi”), TÜFE bazlı enflasyon muhasebesi uygulandığında bu toplam %92 azalarak 2022 sonu TL’si cinsinden aşağıdaki tabloda gözüktüğü gibi 25 milyar TL’ye (“Düzenlenmiş”) iniyor. Bu tabloya göre, enflasyon muhasebesi uygulandığında, örneğin Akbank’ın 2022’de 60 milyar TL net kar yerine 11 milyar TL net kar ettiği, Halkbank’ınsa 15 milyar TL net kar yerine 14 milyar TL zarar ettiği ortaya çıkıyor.
+Hisseleri Borsa İstanbul’da işlem gören 12 banka 2022’de toplam 301 milyar TL kar etmiş gözükürken (“Tarihi”), TÜFE[^TUFE] bazlı enflasyon muhasebesi uygulandığında bu toplam %92 azalarak 2022 sonu TL’si cinsinden aşağıdaki tabloda gözüktüğü gibi 25 milyar TL’ye (“Düzenlenmiş”) iniyor. Bu tabloya göre, enflasyon muhasebesi uygulandığında, örneğin Akbank’ın 2022’de 60 milyar TL net kar yerine 11 milyar TL net kar ettiği, Halkbank’ınsa 15 milyar TL net kar yerine 14 milyar TL zarar ettiği ortaya çıkıyor.
 
 <br/>
-[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyona muhasebesi uygulanmış 2022 net karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg)
+[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyon muhasebesi uygulanmış 2022 net karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg)
 <br/>
 
 Enflasyonun hızla yükseldiği ilk yıl olan 2021’de bu bankaların toplam karı 63 milyar TL'ken, enflasyon muhasebesi uygulandığında yukarıdaki tabloda gözüktüğü gibi, 2021 sonu TL’si cinsinden toplamda 48 milyar TL zarar ortaya çıkıyor. 2021’de enflasyon muhasebesi altında kar etmiş banka neredeyse yok!
@@ -22,7 +22,7 @@ Bankaların enflasyon muhasebesi uygulanmış net karlarının tarihilerden bu k
 Özkaynaklardaysa durum farklı; aşağıdaki tabloda gözüktüğü gibi 12 bankanın 2022 sonundaki 897 milyar TL’lik toplam özkaynağı, enflasyon muhasebesi uygulandığında %10 olumlu farkla 2022 sonu TL’si cinsinden 985 milyar TL oluyor. 2021 özkaynak toplamıysa %5 olumlu farkla 2021 sonu TL’si cinsinden 468 milyar TL çıkıyor.
 
 <br/>
-[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyona muhasebesi uygulanmış 2022 ve 2021 özkaynakları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg)
+[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyon muhasebesi uygulanmış 2022 ve 2021 özkaynakları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg)
 <br/>
 
 Genel fiyat düzeyi için TÜFE yerine Yİ-ÜFE kullanıldığında enflasyon muhasebeli finansallarda 12 bankanın 2022 toplam net karı 2022 sonu TL’si cinsinden 105 milyar TL zarar (TÜFE bazlı 25 milyar TL kar), toplam özkaynağı 1,07 trilyon TL (TÜFE bazlı 985 milyar TL) çıkıyor.
@@ -44,7 +44,7 @@ Yine de hesapladığım enflasyon muhasebesi uygulanmış rakamların bankaları
 ## Model, kaynaklar ve yöntem notları
 Bankalar için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjWpWUuwChT1dQC6h?e=G66RY5) görebilirsiniz. Modeli kabaca [UMS 29 / TMS 29](https://www.mazars.com.tr/Anasayfa/Hizmetlerimiz/Denetim-guevence/Enflasyon-muhasebesi/IAS-29-TMS-29-nedir) muhasebe standartlarının temel prensiplerine uygun olarak inşa ettim. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
 
-Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve EquityRT (ücretli) aboneliğinizin olması gerekiyor.
+Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve [EquityRT]((https://equityrt.com/)) (ücretli) aboneliğinizin olması gerekiyor.
 
 Excel’deki modeli geliştirirken 20 küsur yıllık finansal analistlik tecrübem ve 1990’ların sonlarından 2000’lerin ortasına kadar enflasyon muhasebesi uygulanmış mali tablolar üzerinde bol bol çalışmışlığım yanında, birçok kaynak içinde, en çok şu üçünden faydalandım: 
 
@@ -54,9 +54,9 @@ Excel’deki modeli geliştirirken 20 küsur yıllık finansal analistlik tecrü
 
 1. “[Chapter 7: Practical Example of IAS 29](https://www.icjce.es/images/pdfs/TECNICA/C02%20-%20IASB/C207%20-%20IAS-PwC%20y%20otros/PWC-UIAS%2029%20Practical%20example.pdf)”, 2002, PricewaterhouseCoopers
 
-Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayımlarda bulunmam gerekti Bunlardan bazıları şöyle:
+Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayımlarda bulunmam gerekti. Bunlardan bazıları şöyle:
 
-1. Sadece halka açık veriler kullanılıyor. ALBRK ve KLNMA hariç enflasyon muhasebesi uygulandığında daha doğru sonuç verdiğini tahmin ettiğim için konsolide mali tabloları (BDDK ya da ÖFK) kullandım.
+1. Sadece halka açık veriler kullanılıyor. ALBRK ve KLNMA hariç enflasyon muhasebesi uygulandığında daha doğru sonuç verdiğini tahmin ettiğim için konsolide mali tabloları (BDDK ya da ÖFK) kullandım. Mali tablo cinsi farkları dışında model her bankaya tam aynı şekilde uygulanıyor.
 
 1. Enflasyon muhasebesini çeyreksel mali tablolara uyguladıktan sonra yıllık rakamları hesapladım. Bu yaklaşım yıllık rakamların daha güvenilir bir şekilde hesaplanmasını sağlıyor.
 
@@ -72,5 +72,6 @@ Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayım
 1. Tam bu yazıdaki konuyla ilgili Artunç Kocabalkan'ın benimle yaptığı röportaja [YouTube üzerinden](https://www.youtube.com/watch?v=GQpxMQy0x44) ulaşabilirsiniz.
 
 1. "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da ne vergi kanunlarında ne de TMS’de bu konuda netlik var." -> "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da TMS 29’da bu konuda netlik yok.", 2023-04-28
-<br/><br/><br/>
-#Enflasyon #IAS29 #UMS29 #TMS29 #Muhasebe #Finansal #BIST #XBANK #AKBNK #GARAN #HALKB #ISCTR #TSKB #VAKBN #YKBNK #ALBRK #ICBCT #KLNMA #QNBFB #SKBNK
+
+### Dipnotlar
+[^TUFE]: TÜİK

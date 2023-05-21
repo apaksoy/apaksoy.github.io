@@ -56,7 +56,7 @@ Excel’deki modeli geliştirirken 20 küsur yıllık finansal analistlik tecrü
 
 Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayımlarda bulunmam gerekti. Bunlardan bazıları şöyle:
 
-1. Sadece halka açık veriler kullanılıyor. ALBRK ve KLNMA hariç enflasyon muhasebesi uygulandığında daha doğru sonuç verdiğini tahmin ettiğim için konsolide mali tabloları (BDDK ya da ÖFK) kullandım. Mali tablo cinsi farkları dışında model her bankaya tam aynı şekilde uygulanıyor.
+1. Sadece halka açık veriler kullanılıyor. ALBRK ve KLNMA hariç enflasyon muhasebesi uygulandığında daha doğru sonuç verdiğini tahmin ettiğim için konsolide mali tabloları (BDDK ya da ÖFK) kullandım. Mali tablo cinsi farkı dışında model banka bazında formüllere herhangi bir müdahale olmaksızın her bankaya aynı şekilde uygulanıyor.
 
 1. Enflasyon muhasebesini çeyreksel mali tablolara uyguladıktan sonra yıllık rakamları hesapladım. Bu yaklaşım yıllık rakamların daha güvenilir bir şekilde hesaplanmasını sağlıyor.
 

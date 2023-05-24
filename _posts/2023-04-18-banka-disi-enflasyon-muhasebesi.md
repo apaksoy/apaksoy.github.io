@@ -113,8 +113,11 @@ Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet 
 
 Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [referansların ve yöntem notlarının](/hisse/2023/04/14/bankalar-enflasyon-muhasebesi.html#model-kaynaklar-ve-yöntem-notları) ilgili olanlarının hepsi buradaki model için de geçerli ve yazıyı uzatmamak için bunları tekrarlamıyorum. Ancak bu yazıdaki model ve şirketlere özel olarak şunları eklememde fayda var:
 
-1. Faaliyet, net parasal pozisyon ve net kar (ortanca) toplu değişimlerini, diğer yöntemler daha az sağlıklı sonuç verebildiği için, şöyle hesaplıyorum: (dönem ciro artış oranlarının ortancası  + 1) * (dönem ortanca marjı / önceki dönem ortanca marjı) - 1.
-
+1. Faaliyet, net parasal pozisyon ve net kar (ortanca) toplu değişimlerini, diğer yöntemler daha az sağlıklı sonuç verebildiği için, şöyle hesaplıyorum:<br/><br/>
+```
+(dönem ciro artış oranlarının ortancası + 1) 
+  × (dönem ortanca net kar marjı / önceki dönem ortanca net kar marjı) - 1
+```
 1. Parasal olmayan varlık ve kaynakların yeniden değerlemesini 2020’den değil de resmi enflasyon muhasebesi uygulamalarında olduğu gibi gerekirse 30 yıl önceden başlatabilsem parasal olmayan duran varlıkların yeniden değerlemelerinin şirketlerin hemen hepsinde daha yüksek çıkmasını beklerim.
 
     Bunun da şirketlerin çoğunda düzenlenmiş parasal olmayan duran varlıkların, ve böylece amortisman ve itfa giderlerinin, tarihilerine göre ek 30 ile 50 puan arası daha yüksek (tarihiyle düzenlenmişin farkı örneğin %50'se, %80 ile %100'e) çıkmasına neden olacağını tahmin ediyorum. Böyle olduğunda düzenlenmiş net karların tarihilerine göre ek 5 ile 10 puan arası daha düşük ve düzenlenmiş özkaynakların tarihilerine göre ek 20 ile 40 puan arası daha yüksek çıkmasını beklerdim.

@@ -111,7 +111,7 @@ Hepsi [TMS İlke Kararı 2019-1](https://www.kgk.gov.tr/DynamicContentDetail/529
 
 Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve [EquityRT]((https://equityrt.com/)) (ücretli) aboneliğinizin olması gerekiyor.
 
-Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [referansların ve yöntem notlarının](/hisse/2023/04/14/bankalar-enflasyon-muhasebesi.html#model-kaynaklar-ve-yöntem-notları) ilgili olanlarının hepsi buradaki model için de geçerli ve yazıyı uzatmamak için bunları tekrarlamıyorum. Ancak bu yazıdaki model ve şirketlere özel olarak şunları eklememde fayda var:
+Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [referansların ve yöntem notlarının](/hisse/2023/04/14/bankalar-enflasyon-muhasebesi.html#model-kaynaklar-ve-yöntem-notları) bankacılık sektörüne özel olmayanlarının hepsi buradaki model için de geçerli ve yazıyı uzatmamak için bunları tekrarlamıyorum. Ancak bu yazıdaki model ve şirketlere özel olarak şunları eklememde fayda var:
 
 1. Şirketlerin bir grup olarak faaliyet karı, net parasal pozisyon karı ve net kar  değişimlerini, diğer yöntemler bazı durumlarda pek sağlıklı sonuç vermediği için, şöyle hesaplıyorum:<br/><br/>
 ```

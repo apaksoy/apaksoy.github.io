@@ -113,7 +113,7 @@ Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet 
 
 Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [referansların ve yöntem notlarının](/hisse/2023/04/14/bankalar-enflasyon-muhasebesi.html#model-kaynaklar-ve-yöntem-notları) bankacılık sektörüne özel olmayanlarının hepsi buradaki model için de geçerli ve yazıyı uzatmamak için bunları tekrarlamıyorum. Ancak bu yazıdaki model ve şirketlere özel olarak şunları eklememde fayda var:
 
-1. Şirketlerin bir grup olarak faaliyet karı, net parasal pozisyon karı ve net kar  değişimlerini, diğer yöntemler bazı durumlarda pek sağlıklı sonuç vermediği için, şöyle hesaplıyorum:<br/><br/>
+1. Şirketlerin grup olarak faaliyet karı, net parasal pozisyon karı ve net kar  değişimlerini, diğer yöntemler bazı durumlarda pek sağlıklı sonuç vermediği için, şöyle hesaplıyorum (ilgili tablolardaki "ortanca"lar):<br/><br/>
 ```
 (dönemin ciro artış oranlarının ortancası + 1) 
   × (dönemin ortanca marjı / önceki dönemin ortanca marjı) - 1

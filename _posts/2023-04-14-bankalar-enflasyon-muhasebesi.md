@@ -8,7 +8,7 @@ categories: hisse
 Hisseleri Borsa İstanbul’da işlem gören 12 banka 2022’de toplam 301 milyar TL kar etmiş gözükürken (“Tarihi”), TÜFE[^TUFE] bazlı enflasyon muhasebesi uygulandığında bu toplam %92 azalarak 2022 sonu TL’si cinsinden aşağıdaki tabloda gözüktüğü gibi 25 milyar TL’ye (“Düzenlenmiş”) iniyor. Bu tabloya göre, enflasyon muhasebesi uygulandığında, örneğin Akbank’ın 2022’de 60 milyar TL net kar yerine 11 milyar TL net kar ettiği, Halkbank’ınsa 15 milyar TL net kar yerine 14 milyar TL zarar ettiği ortaya çıkıyor.
 
 <br/>
-[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyon muhasebesi uygulanmış 2022 net karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg)
+[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyon muhasebesi uygulanmış 2022 net karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.png){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.png)
 <br/>
 
 Enflasyonun hızla yükseldiği ilk yıl olan 2021’de bu bankaların toplam karı 63 milyar TL'ken, enflasyon muhasebesi uygulandığında yukarıdaki tabloda gözüktüğü gibi, 2021 sonu TL’si cinsinden toplamda 48 milyar TL zarar ortaya çıkıyor. 2021’de enflasyon muhasebesi altında kar etmiş banka neredeyse yok!
@@ -16,13 +16,13 @@ Enflasyonun hızla yükseldiği ilk yıl olan 2021’de bu bankaların toplam ka
 Bankaların enflasyon muhasebesi uygulanmış net karlarının tarihilerden bu kadar düşük oluşmasına yol açan net parasal pozisyon karları (zararları). Aşağıdaki tabloda belirtildiği gibi 12 bankanın toplam net parasal pozisyon zararı 2022 ve 2021'de ilgili sene sonu TL'leri cinsinden sırasıyla 310 milyar TL ve 119 milyar TL.
 
 <br/>
-[![Borsa İstanbul’da işlem gören bankaların 2022 ve 2021 net parasal pozisyon karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-parasal-kar-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-parasal-kar-2022-2021.jpg)
+[![Borsa İstanbul’da işlem gören bankaların 2022 ve 2021 net parasal pozisyon karları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-parasal-kar-2022-2021.png){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-parasal-kar-2022-2021.png)
 <br/>
 
 Özkaynaklardaysa durum farklı; aşağıdaki tabloda gözüktüğü gibi 12 bankanın 2022 sonundaki 897 milyar TL’lik toplam özkaynağı, enflasyon muhasebesi uygulandığında %10 olumlu farkla 2022 sonu TL’si cinsinden 985 milyar TL oluyor. 2021 özkaynak toplamıysa %5 olumlu farkla 2021 sonu TL’si cinsinden 468 milyar TL çıkıyor.
 
 <br/>
-[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyon muhasebesi uygulanmış 2022 ve 2021 özkaynakları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg)
+[![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyon muhasebesi uygulanmış 2022 ve 2021 özkaynakları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.png){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.png)
 <br/>
 
 ## TÜFE yerine Yİ-ÜFE kullanılırsa

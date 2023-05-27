@@ -26,7 +26,7 @@ Bankaların enflasyon muhasebesi uygulanmış net karlarının tarihilerden bu k
 <br/>
 
 ## TÜFE yerine Yİ-ÜFE kullanılırsa
-TÜFE Türkiye ekonomisinin önemli bir bölümündeki fiyat artışlarını yansıtıyorsa da, tümünü yansıtmıyor. Türkiye'deki genel fiyat seviyelerindeki değişimlerin diğer önemli bir göstergesi olan Yİ-ÜFE'le TÜFE arasındaki fark da aşağıdaki çizgede de gösterildiği gibi uzun bir süredir ciddi açılmış bulunuyor.
+TÜFE Türkiye ekonomisinin önemli bir bölümündeki fiyat artışlarını yansıtıyorsa da, tümünü yansıtmıyor. Türkiye'deki genel fiyat seviyelerindeki değişimlerin diğer önemli bir göstergesi olan Yİ-ÜFE'le TÜFE arasındaki fark aşağıdaki çizgede de gösterildiği gibi 2021 yılından beri ciddi açılmış bulunuyor.
 
 <br/>
 [![Aylık TÜFE ve Yİ-ÜFE endekslerinin yıllık değişimleri.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/tüfe-üfe.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/tüfe-üfe.jpg)

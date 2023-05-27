@@ -115,7 +115,7 @@ Bankaların mali tablolarına enflasyon muhasebesi uygulanması yazısındaki [r
 
 1. Şirketlerin bir grup olarak faaliyet karı, net parasal pozisyon karı ve net kar  değişimlerini, diğer yöntemler bazı durumlarda pek sağlıklı sonuç vermediği için, şöyle hesaplıyorum:<br/><br/>
 ```
-(dönem ciro artış oranlarının ortancası + 1) 
+(dönemin ciro artış oranlarının ortancası + 1) 
   × (dönemin ortanca marjı / önceki dönemin ortanca marjı) - 1
 ```
 1. Parasal olmayan varlık ve kaynakların yeniden değerlemesini 2020’den değil de resmi enflasyon muhasebesi uygulamalarında olduğu gibi gerekirse 30 yıl önceden başlatabilsem parasal olmayan duran varlıkların yeniden değerlemelerinin şirketlerin hemen hepsinde daha yüksek çıkmasını beklerim.

@@ -25,11 +25,28 @@ Bankaların enflasyon muhasebesi uygulanmış net karlarının tarihilerden bu k
 [![Borsa İstanbul’da işlem gören bankaların tarihi ve enflasyon muhasebesi uygulanmış 2022 ve 2021 özkaynakları.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-2022-2021.jpg)
 <br/>
 
-Genel fiyat düzeyi için TÜFE yerine Yİ-ÜFE kullanıldığında enflasyon muhasebeli finansallarda 12 bankanın 2022 toplam net karı 2022 sonu TL’si cinsinden 105 milyar TL zarar (TÜFE bazlı 25 milyar TL kar), toplam özkaynağı 1,07 trilyon TL (TÜFE bazlı 985 milyar TL) çıkıyor.
+## TÜFE yerine Yİ-ÜFE kullanılırsa
+TÜFE Türkiye ekonomisinin önemli bir bölümündeki fiyat artışlarını yansıtıyorsa da, tümünü yansıtmıyor. Türkiye'deki genel fiyat seviyelerindeki değişimlerin diğer önemli bir göstergesi olan Yİ-ÜFE'le TÜFE arasındaki fark da aşağıdaki çizgede de gösterildiği gibi uzun bir süredir ciddi açılmış bulunuyor.
 
 <br/>
 [![Aylık TÜFE ve Yİ-ÜFE endekslerinin yıllık değişimleri.](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/tüfe-üfe.jpg){:height="300px"}](/assets/2023-04-14-bankalar-enflasyon-muhasebesi/tüfe-üfe.jpg)
+<br/>
 
+Genel fiyat düzeyi için TÜFE yerine Yİ-ÜFE kullanıldığında enflasyon muhasebeli finansallarda 12 bankanın 2022 toplam net karı 2022 sonu TL’si cinsinden 105 milyar TL zarar (TÜFE bazlı 25 milyar TL kar), toplam özkaynağı 1,07 trilyon TL (TÜFE bazlı 985 milyar TL) çıkıyor.
+<br/><br/>
+<div style="display: flex; justify-content: center;">
+  <a href="/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-yiufe-2022-2021.png">
+    <img src="/assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-yiufe-2022-2021.png" 
+    alt="Bankaların tarihi ve Yİ-ÜFE bazlı enflasyon muhasebesi uygulandığında net karları."     
+    height="300" style="margin-right: 15px;" />
+  </a>
+  <a href="/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-yiufe-2022-2021.png">
+    <img src="/assets/2023-04-14-bankalar-enflasyon-muhasebesi/ozkaynak-yiufe-2022-2021.png" 
+    alt="Bankaların tarihi ve Yİ-ÜFE bazlı enflasyon muhasebesi uygulandığında özkaynakları."     
+    height="300" style="margin-right: 15px;" />
+   </a>
+</div>
+<br/>
 ## Enflasyon muhasebesi
 Peki neden böyle oluyor? Çünkü hemen her bankanın parasal varlıkları parasal yükümlülüklerinden epey fazla olduğundan yüksek net parasal pozisyonu var. Ve bu net parasal pozisyonlar enflasyon karşısında eriyor. 
 
@@ -69,9 +86,11 @@ Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayım
 ### Notlar ve önemli değişiklikler
 1. Bu yazının bir benzerini [Twitter üzerinden](https://twitter.com/curiosus137/status/1639210228469121024?s=61&t=ckXSOwzZY7rHjBboCn3XJg) daha önce yayımladım.
 
-1. Tam bu yazıdaki konuyla ilgili Artunç Kocabalkan'ın benimle yaptığı röportaja [YouTube üzerinden](https://www.youtube.com/watch?v=GQpxMQy0x44) ulaşabilirsiniz.
+1. Tam bu yazıdaki konuyla ilgili Artunç Kocabalkan'ın benimle yaptığı röportaja [YouTube üzerinden](https://youtu.be/dd7ubL_4f7g) ulaşabilirsiniz.
 
-1. "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da ne vergi kanunlarında ne de TMS’de bu konuda netlik var." -> "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da TMS 29’da bu konuda netlik yok.", 2023-04-28
+1. "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da ne vergi kanunlarında ne de TMS’de bu konuda netlik var." -> "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da TMS 29’da bu konuda netlik yok." (2023-04-28)
+
+1. TÜFE yerine Yİ-ÜFE kullanıldığında net kar ve özkaynakların banka bazında tarihilere göre nasıl değiştiğini gösteren iki tablo eklendi. (2023-05-27)
 
 ### Dipnotlar
 [^TUFE]: TÜİK

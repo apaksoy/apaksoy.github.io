@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bankaların 2022 ve 2021 mali tablolarına enflasyon muhasebesi uygulanması"
-related_image: /assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.jpg
+related_image: /assets/2023-04-14-bankalar-enflasyon-muhasebesi/net-kar-2022-2021.png
 categories: hisse
 ---
 

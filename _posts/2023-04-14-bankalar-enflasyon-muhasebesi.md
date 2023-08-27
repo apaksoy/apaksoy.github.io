@@ -86,7 +86,7 @@ Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayım
 ### Notlar ve önemli değişiklikler
 1. Bu yazının bir benzerini [Twitter üzerinden](https://twitter.com/curiosus137/status/1639210228469121024?s=61&t=ckXSOwzZY7rHjBboCn3XJg) daha önce yayımladım.
 
-1. Tam bu yazıdaki konuyla ilgili Artunç Kocabalkan'ın benimle yaptığı röportaja [YouTube üzerinden](https://youtu.be/dd7ubL_4f7g) ulaşabilirsiniz.
+1. Bu yazıda anlatılan çalışmayla ilgili Artunç Kocabalkan'ın benimle Mayıs 2023'te yaptığı röportaja [YouTube üzerinden](https://youtu.be/dd7ubL_4f7g) ulaşabilirsiniz.
 
 1. "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da ne vergi kanunlarında ne de TMS’de bu konuda netlik var." -> "Enflasyon muhasebesi uygulanmış finansallarını yakın zamanda gönüllü olarak ayrıca açıklayan birkaç şirket TÜFE’yi kullanmışsa da TMS 29’da bu konuda netlik yok." (2023-04-28)
 

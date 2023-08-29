@@ -1,5 +1,6 @@
 title: Yatırım Defteri
-# author:
+author:
+  twitter: curiosus137
   # name: Alper Paksoy
   # email: paksoy nokta alper at gmail nokta com
 
@@ -15,6 +16,9 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+feed:
+  excerpt_only: true
 
 # Theme-specific settings
 

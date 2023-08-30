@@ -1,1 +1,0 @@
-These are the Jekyll's minima theme-related files and directories underlying the Turkish blog website "[Yatırım araçları üzerine](https://apaksoy.github.io)". The website features my analyses of mainstream financial assets. Thx for visiting!

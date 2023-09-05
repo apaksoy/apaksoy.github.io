@@ -61,7 +61,7 @@ Yine de hesapladığım enflasyon muhasebesi uygulanmış rakamların bankaları
 ## Model, kaynaklar ve yöntem notları
 Bankalar için enflasyon muhasebesi uygulanmış rakamları hesaplarken kullandığım ve kendi geliştirdiğim Excel modelini [şu bağlantıdan](https://1drv.ms/x/s!An7xDJLejfMUjWpWUuwChT1dQC6h?e=G66RY5) görebilirsiniz. Modeli kabaca [UMS 29 / TMS 29](https://www.mazars.com.tr/Anasayfa/Hizmetlerimiz/Denetim-guevence/Enflasyon-muhasebesi/IAS-29-TMS-29-nedir) muhasebe standartlarının temel prensiplerine uygun olarak inşa ettim. Modeli tam anlayabilmek için iyi finansal muhasebe, enflasyon muhasebesi ve Excel bilginiz olması lazım.
 
-Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve [EquityRT]((https://equityrt.com/)) (ücretli) aboneliğinizin olması gerekiyor.
+Dosyayı internet üzerinden açmak ya da incelemek için herhangi bir internet tarayıcı (Chrome, Firefox, vb.) yeterli. Ama modeli çalıştırabilmek için Microsoft Windows ve Excel yüklü bilgisayarınıza indirmeniz ve [EquityRT](https://equityrt.com/) (ücretli) aboneliğinizin olması gerekiyor.
 
 Excel’deki modeli geliştirirken 20 küsur yıllık finansal analistlik tecrübem ve 1990’ların sonlarından 2000’lerin ortasına kadar enflasyon muhasebesi uygulanmış mali tablolar üzerinde bol bol çalışmışlığım yanında, birçok kaynak içinde, en çok şu üçünden faydalandım: 
 

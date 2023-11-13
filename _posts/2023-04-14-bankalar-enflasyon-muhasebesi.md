@@ -83,7 +83,7 @@ Modeli hem anlamlı hem de pratik kılabilmek için bazı tercih ya da varsayım
 
 1. Sonuçları çok etkilemiyor ama vergi amaçlı mali tablolarda enflasyon muhasebesi uygulamasına izin verilmediğini varsayarak enflasyon muhasebesi uygulanmış mali tablolarda ek ertelenmiş vergi gideri hesabını da işin içine kattım.
 
-### Notlar ve önemli değişiklikler
+### Diğer notlar ve önemli değişiklikler
 1. Bu yazının bir benzerini [Twitter üzerinden](https://twitter.com/curiosus137/status/1639210228469121024?s=61&t=ckXSOwzZY7rHjBboCn3XJg) daha önce yayımladım.
 
 1. Bu yazıda anlatılan çalışmayla ilgili Artunç Kocabalkan'ın benimle Mayıs 2023'te yaptığı röportaja [YouTube üzerinden](https://youtu.be/dd7ubL_4f7g) ulaşabilirsiniz.
